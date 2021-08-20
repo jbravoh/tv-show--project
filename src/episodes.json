@@ -1,0 +1,899 @@
+[
+  {
+    "id": 1008862,
+    "url": "https://www.tvmaze.com/episodes/1008862/the-good-fight-1x01-inauguration",
+    "name": "Inauguration",
+    "season": 1,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2017-02-19",
+    "airtime": "",
+    "airstamp": "2017-02-19T17:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/99/248194.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/99/248194.jpg"
+    },
+    "summary": "<p>After a financial scam destorys the reputation of lawyer Maia Rindell, while wiping out her mentor and godmother, Diane Lockhart's, savings; Maia and Diane join one of Chicago's preeminent law firms.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1008862" } }
+  },
+  {
+    "id": 1066324,
+    "url": "https://www.tvmaze.com/episodes/1066324/the-good-fight-1x02-first-week",
+    "name": "First Week",
+    "season": 1,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2017-02-19",
+    "airtime": "",
+    "airstamp": "2017-02-19T17:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/99/248193.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/99/248193.jpg"
+    },
+    "summary": "<p>Diane raises eyebrows while settling in as a new partner at Reddick, Boseman &amp; Kolstad. Maia continues to deal with the repercussions of her family's Ponzi scheme. Lucca and Maia unexpectedly pick up a new case.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1066324" } }
+  },
+  {
+    "id": 1073966,
+    "url": "https://www.tvmaze.com/episodes/1073966/the-good-fight-1x03-the-schtup-list",
+    "name": "The Schtup List",
+    "season": 1,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2017-02-26",
+    "airtime": "",
+    "airstamp": "2017-02-26T17:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/100/250114.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/100/250114.jpg"
+    },
+    "summary": "<p>Adrian and Barbara face a cruel realization about a high profile client. While second chair to Diane on a case, Lucca is in for more than she bargained for thanks to the state's attorney's office's golden boy, Colin Morello. Maia visits her father in prison.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1073966" } }
+  },
+  {
+    "id": 1084613,
+    "url": "https://www.tvmaze.com/episodes/1084613/the-good-fight-1x04-henceforth-known-as-property",
+    "name": "Henceforth Known as Property",
+    "season": 1,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2017-03-05",
+    "airtime": "",
+    "airstamp": "2017-03-05T17:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/101/254662.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/101/254662.jpg"
+    },
+    "summary": "<p>Diane and Lucca represent an ovarian cancer survivor looking to obtain custody of her previously donated embryos. Maia is the victim of a fake social media account. Mike Kresteva pays a visit to Reddick, Boseman &amp; Kolstad.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1084613" } }
+  },
+  {
+    "id": 1091165,
+    "url": "https://www.tvmaze.com/episodes/1091165/the-good-fight-1x05-stoppable-requiem-for-an-airdate",
+    "name": "Stoppable: Requiem for an Airdate",
+    "season": 1,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2017-03-12",
+    "airtime": "",
+    "airstamp": "2017-03-12T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/101/254664.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/101/254664.jpg"
+    },
+    "summary": "<p>Lucca defends a TV writer-producer in a copyright infringement case with ties to the President of the United States. Mike Kresteva takes aim at Reddick, Boseman &amp; Kolstad.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1091165" } }
+  },
+  {
+    "id": 1098151,
+    "url": "https://www.tvmaze.com/episodes/1098151/the-good-fight-1x06-social-media-and-its-discontents",
+    "name": "Social Media and Its Discontents",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2017-03-19",
+    "airtime": "",
+    "airstamp": "2017-03-19T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/102/256992.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/102/256992.jpg"
+    },
+    "summary": "<p>After landing tech mogul Neil Gross as a new client, the firm is tasked with figuring out a way to combat hate speech on his social media platform. Maia's suspicions about her father grow after Uncle Jax pays an unwelcome visit. Lucca and Colin's romance heats up.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1098151" } }
+  },
+  {
+    "id": 1102456,
+    "url": "https://www.tvmaze.com/episodes/1102456/the-good-fight-1x07-not-so-grand-jury",
+    "name": "Not So Grand Jury",
+    "season": 1,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2017-03-26",
+    "airtime": "",
+    "airstamp": "2017-03-26T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/103/259755.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/259755.jpg"
+    },
+    "summary": "<p>Mike Kresteva takes his case against Reddick, Boseman &amp; Kolstad to a grand jury, but the firm devises a grand jury strategy of their own to hamper Kresteva's efforts. Colin finds himself in an awkward position in court.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1102456" } }
+  },
+  {
+    "id": 1112271,
+    "url": "https://www.tvmaze.com/episodes/1112271/the-good-fight-1x08-reddick-v-boseman",
+    "name": "Reddick v Boseman",
+    "season": 1,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2017-04-02",
+    "airtime": "",
+    "airstamp": "2017-04-02T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/105/262868.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/105/262868.jpg"
+    },
+    "summary": "<p>Founding partner, Carl Reddick, makes a surprise return to the firm. A renowned local pastor needs the firm's help in a legal matter that threatens to ruin his legacy. Lucca unexpectedly meets Colin's parents. Meanwhile, Henry attempts to reconnect with Maia.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1112271" } }
+  },
+  {
+    "id": 1119338,
+    "url": "https://www.tvmaze.com/episodes/1119338/the-good-fight-1x09-self-condemned",
+    "name": "Self Condemned",
+    "season": 1,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2017-04-09",
+    "airtime": "",
+    "airstamp": "2017-04-09T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/106/265861.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/106/265861.jpg"
+    },
+    "summary": "<p>Diane and Adrian find themselves involved in another police brutality case, this time representing a surprising but familiar face, Colin Sweeney. Lucca represents Maia for her interview with a federal investigator seeking information on the Rindell scandal.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1119338" } }
+  },
+  {
+    "id": 1127054,
+    "url": "https://www.tvmaze.com/episodes/1127054/the-good-fight-1x10-chaos",
+    "name": "Chaos",
+    "season": 1,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2017-04-16",
+    "airtime": "",
+    "airstamp": "2017-04-16T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/107/268622.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/268622.jpg"
+    },
+    "summary": "<p>Diane takes on a new client who is accused of cyber-terrorism, resulting in unforeseen repercussions for the firm, especially Lucca. An accident brings Diane and Kurt together. Henry reveals new truths about the scandal to Maia.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1127054" } }
+  },
+  {
+    "id": 1372508,
+    "url": "https://www.tvmaze.com/episodes/1372508/the-good-fight-2x01-day-408",
+    "name": "Day 408",
+    "season": 2,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2018-03-04",
+    "airtime": "",
+    "airstamp": "2018-03-04T17:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402258.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402258.jpg"
+    },
+    "summary": "<p>An unfortunate event brings the firm together, along with the prospect of a new name partner, Liz Reddick-Lawrence. Meanwhile, Diane struggles to grapple with the insanity of the world and Maia is confronted with another hurdle in her parents' scandal.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1372508" } }
+  },
+  {
+    "id": 1413818,
+    "url": "https://www.tvmaze.com/episodes/1413818/the-good-fight-2x02-day-415",
+    "name": "Day 415",
+    "season": 2,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2018-03-11",
+    "airtime": "",
+    "airstamp": "2018-03-11T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402259.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402259.jpg"
+    },
+    "summary": "<p>Tensions remain high when the firm learns another Chicago lawyer has been murdered by a client. Liz has her first day at Reddick, Boseman and Lockhart and positions herself as a potential ally for Diane. Maia's trial takes an unwelcome turn when a surprise witness is called to testify against her. Lucca and Colin go head-to-head in court.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1413818" } }
+  },
+  {
+    "id": 1424294,
+    "url": "https://www.tvmaze.com/episodes/1424294/the-good-fight-2x03-day-422",
+    "name": "Day 422",
+    "season": 2,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2018-03-18",
+    "airtime": "",
+    "airstamp": "2018-03-18T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402260.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402260.jpg"
+    },
+    "summary": "<p>Reddick, Boseman and Lockhart represent a young woman who was assaulted while a contestant on a reality dating show; Diane fears she might be the killer's next target.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1424294" } }
+  },
+  {
+    "id": 1427455,
+    "url": "https://www.tvmaze.com/episodes/1427455/the-good-fight-2x04-day-429",
+    "name": "Day 429",
+    "season": 2,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2018-03-25",
+    "airtime": "",
+    "airstamp": "2018-03-25T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402261.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402261.jpg"
+    },
+    "summary": "<p>Liz decides to represent her son's favorite teacher after she senses the school fired him for illegitimate reasons. Lucca enlists the help of Elsbeth Tascioni when an unanticipated lawsuit hits close to home. Despite the recent chemical scare, the firm throws a party to celebrate their new offices.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1427455" } }
+  },
+  {
+    "id": 1429503,
+    "url": "https://www.tvmaze.com/episodes/1429503/the-good-fight-2x05-day-436",
+    "name": "Day 436",
+    "season": 2,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2018-04-01",
+    "airtime": "",
+    "airstamp": "2018-04-01T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402262.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402262.jpg"
+    },
+    "summary": "<p>Adrian and Diane serve as outside counsel for a broadcast network planning to air a controversial segment that would delrail the career of a beloved male movie star. Maia and Lucca have vastly different experiences while on separate ride-alongs with the Chicago Police Department.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1429503" } }
+  },
+  {
+    "id": 1439003,
+    "url": "https://www.tvmaze.com/episodes/1439003/the-good-fight-2x06-day-443",
+    "name": "Day 443",
+    "season": 2,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2018-04-08",
+    "airtime": "",
+    "airstamp": "2018-04-08T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402263.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402263.jpg"
+    },
+    "summary": "<p>Adrian becomes an overnight celebrity after his candid appearance on a cable news show goes viral. Lucca, who has yet to formally announce her pregnancy, worries about her future at the firm. Meanwhile, Adrian's newfound cable news fame grabs the attention of Chicago's top law firm and the jury of his latest case.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439003" } }
+  },
+  {
+    "id": 1439004,
+    "url": "https://www.tvmaze.com/episodes/1439004/the-good-fight-2x07-day-450",
+    "name": "Day 450",
+    "season": 2,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2018-04-15",
+    "airtime": "",
+    "airstamp": "2018-04-15T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402265.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402265.jpg"
+    },
+    "summary": "<p>A Democratic National Committee consultant, Ruth Eastman, approaches Reddick, Boseman and Lockhart to develop a confidential impeachment strategy for the DNC against President Trump, leaving the firm's partners at odds. After an impromptu visit from Colin's mom, Lucca is left feeling suspicious of her motives. Maia is intrigued by Ruth's assistant, Carine.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439004" } }
+  },
+  {
+    "id": 1439005,
+    "url": "https://www.tvmaze.com/episodes/1439005/the-good-fight-2x08-day-457",
+    "name": "Day 457",
+    "season": 2,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2018-04-22",
+    "airtime": "",
+    "airstamp": "2018-04-22T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402266.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402266.jpg"
+    },
+    "summary": "<p>Reddick, Boseman and Lockhart represent an African-American undercover cop, Rashid Clarkson, who was left crippled after being shot by another Chicago police officer in the line of duty. The case's opposing counsel is legend Solomon Waltzer, whose tactics have the firm questioning the legitimacy of his evidence. Diane finds herself at a crossroads with both Kurt and Tully.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439005" } }
+  },
+  {
+    "id": 1439006,
+    "url": "https://www.tvmaze.com/episodes/1439006/the-good-fight-2x09-day-464",
+    "name": "Day 464",
+    "season": 2,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2018-04-29",
+    "airtime": "",
+    "airstamp": "2018-04-29T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402267.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402267.jpg"
+    },
+    "summary": "<p>A Russian student asks Diane to protect her from deportation, claiming she was one of the women filmed with President Trump in the alleged \"Golden Shower\" tape. Meanwhile, Maia and Lucca suggest an unconventional lawyer to represent Jay's friend Craig Savador at his upcoming appeal and Colin meets with the Cook County Democratic Committee. Margo Martindale, Jane Lynch, Michael Ian Black and Fisher Stevens guest star.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439006" } }
+  },
+  {
+    "id": 1439007,
+    "url": "https://www.tvmaze.com/episodes/1439007/the-good-fight-2x10-day-471",
+    "name": "Day 471",
+    "season": 2,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2018-05-06",
+    "airtime": "",
+    "airstamp": "2018-05-06T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402268.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402268.jpg"
+    },
+    "summary": "<p>Reddick, Boseman and Lockhart is left in disarray after a partner at the firm becomes the latest \"Kill All Lawyers\" victim by an unknown assailant. The Chicago police chief causes a stir when he goes after the firm's high profile clients Lemond Bishop and Colin Sweeney as potential suspects. Amidst the chaos, Colin is reminded of his true feelings for Lucca.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439007" } }
+  },
+  {
+    "id": 1439008,
+    "url": "https://www.tvmaze.com/episodes/1439008/the-good-fight-2x11-day-478",
+    "name": "Day 478",
+    "season": 2,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2018-05-13",
+    "airtime": "",
+    "airstamp": "2018-05-13T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402269.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402269.jpg"
+    },
+    "summary": "<p>Heated debates occur at the firm when Liz and Maia represent a well-known photographer, Ron Williams, suing a woman who provided an account of their relationship to a website. Jay continues to investigate possible suspects in Adrian's shooting while Diane receives surprising news from her accountant. Becky Ann Baker, Anthony Rapp and Gary Cole guest star.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439008" } }
+  },
+  {
+    "id": 1439009,
+    "url": "https://www.tvmaze.com/episodes/1439009/the-good-fight-2x12-day-485",
+    "name": "Day 485",
+    "season": 2,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2018-05-20",
+    "airtime": "",
+    "airstamp": "2018-05-20T16:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402270.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402270.jpg"
+    },
+    "summary": "<p>Jay is arrested on a fraudulent charge while driving Maia and a witness in a case involving Colin Sweeney's fiancée, Naftali Amado, to court. The firm rallies to help Jay when they realize U.S. Immigration and Customs Enforcement is involved with his arrest and may have ulterior motives. Jane Alexander, Katrina Lenk and Nikki M. James guest star.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439009" } }
+  },
+  {
+    "id": 1439010,
+    "url": "https://www.tvmaze.com/episodes/1439010/the-good-fight-2x13-day-492",
+    "name": "Day 492",
+    "season": 2,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2018-05-27",
+    "airtime": "",
+    "airstamp": "2018-05-27T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402271.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402271.jpg"
+    },
+    "summary": "<p>Season two finale. The FBI question Diane as part of a job background check on Kurt, leading to unexpected and serious consequences. The mayor of Chicago invites Adrian and Julius to join a ‘think tank' tasked with figuring out how to spend funds that will address the \"Kill All Lawyers\" problem. Chaos ensues in the delivery room after Lucca goes into labor early. Andrea Martin, Judith Light, Mo Rocca, Margo Martindale, Tim Matheson and Gary Cole guest star.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439010" } }
+  },
+  {
+    "id": 1600099,
+    "url": "https://www.tvmaze.com/episodes/1600099/the-good-fight-3x01-the-one-about-the-recent-troubles",
+    "name": "The One About the Recent Troubles",
+    "season": 3,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2019-03-14",
+    "airtime": "",
+    "airstamp": "2019-03-14T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/187/469341.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/187/469341.jpg"
+    },
+    "summary": "<p>Season three premiere. A storm is brewing at Reddick, Boseman &amp; Lockhart when revelations of past indiscretions involving a partner come to light. Right when she thought the world couldn't get any crazier, an incident at home pushes Diane to her breaking point. Meanwhile, Lucca is brought a new opportunity while Marissa teaches Maia to toughen up.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1600099" } }
+  },
+  {
+    "id": 1624765,
+    "url": "https://www.tvmaze.com/episodes/1624765/the-good-fight-3x02-the-one-inspired-by-roy-cohn",
+    "name": "The One Inspired by Roy Cohn",
+    "season": 3,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2019-03-21",
+    "airtime": "",
+    "airstamp": "2019-03-21T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/188/472251.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/188/472251.jpg"
+    },
+    "summary": "<p>Corruption incarnate enters the courtroom in the form of attorney Roland Blum, Maia's new co-counsel on a hug trial. The firm interviews a potential new head of matrimonial law, but Lucca is skeptical of his qualifications. Diane lets off some steam after finding out who recommended Kurt for a new job</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1624765" } }
+  },
+  {
+    "id": 1627748,
+    "url": "https://www.tvmaze.com/episodes/1627748/the-good-fight-3x03-the-one-where-diane-joins-the-resistance",
+    "name": "The One Where Diane Joins the Resistance",
+    "season": 3,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2019-03-28",
+    "airtime": "",
+    "airstamp": "2019-03-28T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474548.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474548.jpg"
+    },
+    "summary": "<p>Diane is encouraged to \"do something\" after meeting the leader of a female resistance group whose aim is to sink POTUS' approval rating. Maia and Blum's plan for a plea deal goes awry when Assistant State's Attorney Spencer Zschau (Aaron Tveit) takes over the case. Lucca receives a surprising new divorce referral while Marissa helps Julius find a campaign manager to support his run for federal judgeship.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1627748" } }
+  },
+  {
+    "id": 1633150,
+    "url": "https://www.tvmaze.com/episodes/1633150/the-good-fight-3x04-the-one-with-lucca-becoming-a-meme",
+    "name": "The One With Lucca Becoming a Meme",
+    "season": 3,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2019-04-04",
+    "airtime": "",
+    "airstamp": "2019-04-04T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/190/476267.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476267.jpg"
+    },
+    "summary": "<p>Lucca's involvement in a viral \"mothering while black\" video sparks conversations at Reddick, Boseman and Lockhart that unearth racial biases and pay disparity at the firm. Liz joins Diane at a resistance group meeting but their next act -- to help swing votes in key states -- hits close to home when the group decides they need a celebrity influencer. Maia faces serious consequences at the firm thanks to Blum.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1633150" } }
+  },
+  {
+    "id": 1637312,
+    "url": "https://www.tvmaze.com/episodes/1637312/the-good-fight-3x05-the-one-where-a-nazi-gets-punched",
+    "name": "The One Where a Nazi Gets Punched",
+    "season": 3,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2019-04-11",
+    "airtime": "",
+    "airstamp": "2019-04-11T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/191/478357.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/191/478357.jpg"
+    },
+    "summary": "<p>Blum weasels his way to a co-counsel seat on Reddick, Boseman &amp; Lockhart's largest case against genetics testing company Second Helix. While volunteering as democratic poll watchers in the suburbs of Chicago, Lucca and Jay come face to face with an alt-right group aiming to intimidate voters. Meanwhile, Maia attempts to move on while the partners grapple with a divided firm following revelations of pay disparity.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1637312" } }
+  },
+  {
+    "id": 1641125,
+    "url": "https://www.tvmaze.com/episodes/1641125/the-good-fight-3x06-the-one-with-the-celebrity-divorce",
+    "name": "The One with the Celebrity Divorce",
+    "season": 3,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2019-04-18",
+    "airtime": "",
+    "airstamp": "2019-04-18T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/192/480311.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/480311.jpg"
+    },
+    "summary": "<p>Celebrity hairdresser Wade V seeks Lucca's help with a postnuptial agreement for a high profile client. Following their deal with Second Helix, Blum makes his presence well known at Reddick, Boseman &amp; Lockhart, rattling some partners more than others. With political pundits buzzing about the resistance group's covert efforts, Diane takes her axe throwing to the next level.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1641125" } }
+  },
+  {
+    "id": 1645417,
+    "url": "https://www.tvmaze.com/episodes/1645417/the-good-fight-3x07-the-one-where-diane-and-liz-topple-democracy",
+    "name": "The One Where Diane and Liz Topple Democracy",
+    "season": 3,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2019-04-25",
+    "airtime": "",
+    "airstamp": "2019-04-25T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/193/483073.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/193/483073.jpg"
+    },
+    "summary": "<p>Diane and Liz deal with a close ally when assigned to a class action case involving malfunctioning voting machines in the 2016 presidential election. Blum's domineering tactics continue to push buttons at the firm while he purposefully stalls his work on Second Helix. Lucca is intrigued by a handsome associate of Blum's.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1645417" } }
+  },
+  {
+    "id": 1648342,
+    "url": "https://www.tvmaze.com/episodes/1648342/the-good-fight-3x08-the-one-where-kurt-saves-diane",
+    "name": "The One Where Kurt Saves Diane",
+    "season": 3,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2019-05-02",
+    "airtime": "",
+    "airstamp": "2019-05-02T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/194/485712.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/194/485712.jpg"
+    },
+    "summary": "<p>Felix Staples rattles the firm when he returns with a case against ChumHum, bringing along a familiar face as his representation, Solomon Waltzer. Diane receives a mysterious note at home, leading Kurt to question what she's been up to. Meanwhile, actor Gary Carr shadows Lucca for his upcoming role as a lawyer.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1648342" } }
+  },
+  {
+    "id": 1651709,
+    "url": "https://www.tvmaze.com/episodes/1651709/the-good-fight-3x09-the-one-where-the-sun-comes-out",
+    "name": "The One Where the Sun Comes Out",
+    "season": 3,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2019-05-09",
+    "airtime": "",
+    "airstamp": "2019-05-09T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/489394.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/489394.jpg"
+    },
+    "summary": "<p>Reddick, Boseman &amp; Lockhart is asked by ChumHum to bring on a specialist, lawyer Brenda DeCarlo, to investigate any remaining misconduct or cultural issues within the firm. Diane begins to question the resistance group's tactics while Blum approaches Maia with an intriguing job offer.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1651709" } }
+  },
+  {
+    "id": 1651710,
+    "url": "https://www.tvmaze.com/episodes/1651710/the-good-fight-3x10-the-one-about-the-end-of-the-world",
+    "name": "The One About the End of the World",
+    "season": 3,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2019-05-16",
+    "airtime": "",
+    "airstamp": "2019-05-16T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/492769.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/492769.jpg"
+    },
+    "summary": "<p>Blum is out for revenge when he represents a group of Reddick, Boseman &amp; Lockhart's ex-clients who claim the firm overcharged them. When Lucca finds out she's a candidate for an open partner position, she begins to question her reputation within the firm. Meanwhile, Diane helps Kurt with a work project.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1651710" } }
+  },
+  {
+    "id": 1801419,
+    "url": "https://www.tvmaze.com/episodes/1801419/the-good-fight-4x01-the-gang-deals-with-alternate-reality",
+    "name": "The Gang Deals with Alternate Reality",
+    "season": 4,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2020-04-09",
+    "airtime": "",
+    "airstamp": "2020-04-09T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/250/626810.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/250/626810.jpg"
+    },
+    "summary": "<p>Diane Lockhart finds herself living in an alternate reality where Donald Trump was never elected and Hillary Clinton is the current president of the United States. While Diane's liberal self is overjoyed, she soon realizes how a different outcome of the 2016 election might have unexpected consequences.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1801419" } }
+  },
+  {
+    "id": 1827744,
+    "url": "https://www.tvmaze.com/episodes/1827744/the-good-fight-4x02-the-gang-tries-to-serve-a-subpoena",
+    "name": "The Gang Tries to Serve a Subpoena",
+    "season": 4,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2020-04-16",
+    "airtime": "",
+    "airstamp": "2020-04-16T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630388.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630388.jpg"
+    },
+    "summary": "<p>Reddick, Boseman &amp; Lockhart attempt to adjust to their new landscape as a small subsidiary of STR Laurie, a huge multi-national law firm. Diane encounters a familiar face in court, Louis Canning, during an eminent domain case against a large real estate developer, Rare Orchard. Lucca is given an exciting, high-profile divorce case, however it comes with an unexpected partner, David Lee.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1827744" } }
+  },
+  {
+    "id": 1829396,
+    "url": "https://www.tvmaze.com/episodes/1829396/the-good-fight-4x03-the-gang-gets-a-call-from-hr",
+    "name": "The Gang Gets a Call from HR",
+    "season": 4,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2020-04-30",
+    "airtime": "",
+    "airstamp": "2020-04-30T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/636388.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/636388.jpg"
+    },
+    "summary": "<p>When DNC head Frank Landau asks Reddick, Boseman &amp; Lockhart for help with a plan to engage African-American voters, the resulting discussion turns personal for one of the partners. Determined to sue Rare Orchard, Diane is shocked to learn that all court documents associated with the case are missing, leading her down an unexpected rabbit hole. Meanwhile, Marissa befriends Caleb Garlin (Hugh Dancy), an STR Laurie associate.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1829396" } }
+  },
+  {
+    "id": 1839130,
+    "url": "https://www.tvmaze.com/episodes/1839130/the-good-fight-4x04-the-gang-is-satirized-and-doesnt-like-it",
+    "name": "The Gang is Satirized and Doesn't Like It",
+    "season": 4,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2020-05-07",
+    "airtime": "",
+    "airstamp": "2020-05-07T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/255/639247.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/255/639247.jpg"
+    },
+    "summary": "<p>A former divorce client, Duncan Herz, seeks the firm's help, claiming a buzzy new play running in Chicago is based on his divorce and shares specific details that unearth more than just his dirty laundry. Diane attempts to get to the heart of Memo 618 when a missing case leads her to the corporate overlords themselves, STR Laurie.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1839130" } }
+  },
+  {
+    "id": 1864917,
+    "url": "https://www.tvmaze.com/episodes/1864917/the-good-fight-4x05-the-gang-goes-to-war",
+    "name": "The Gang Goes to War",
+    "season": 4,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2020-05-14",
+    "airtime": "",
+    "airstamp": "2020-05-14T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/256/642062.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/256/642062.jpg"
+    },
+    "summary": "Following their secret rendezvous, Liz and Caleb find themselves on a case together, defending a soldier court-martialed for sabotaging the weapon of his superior officer. Lucca accompanies her client, and newly minted friend, Bianca, on a short but sure to be memorable trip to the Caribbean.",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1864917" } }
+  },
+  {
+    "id": 1865243,
+    "url": "https://www.tvmaze.com/episodes/1865243/the-good-fight-4x06-the-gang-offends-everyone",
+    "name": "The Gang Offends Everyone",
+    "season": 4,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2020-05-21",
+    "airtime": "",
+    "airstamp": "2020-05-21T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/257/644189.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/644189.jpg"
+    },
+    "summary": "<p>Reddick, Boseman &amp; Lockhart represent an Olympic hopeful who was edged out of a spot on the U.S. women's swim team due to a last minute change to the eligibility window. From racism to sex and gender constructs, the case quickly takes the firm into rough waters. Meanwhile, Adrian is approached by the DNC with a compelling offer and Diane and Julius unite to track down Memo 618. </p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1865243" } }
+  },
+  {
+    "id": 1865244,
+    "url": "https://www.tvmaze.com/episodes/1865244/the-good-fight-4x07-the-gang-discovers-who-killed-jeffrey-epstein",
+    "name": "The Gang Discovers Who Killed Jeffrey Epstein",
+    "season": 4,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2020-05-28",
+    "airtime": "",
+    "airstamp": "2020-05-28T12:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/258/647331.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/258/647331.jpg"
+    },
+    "summary": "<p>Reddick, Boseman &amp; Lockhart are hired to investigate the death of high-profile New York inmate Jeffrey Epstein. Back at the office, STR Laurie continues to tighten their grip on the firm by forcing Diane, Adrian and Liz to conduct layoffs. But the enraged trio won't go down that route without a fight and hatch a plan in hopes of shaking off their corporate overlords once and for all.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1865244" } }
+  },
+  {
+    "id": 2093423,
+    "url": "https://www.tvmaze.com/episodes/2093423/the-good-fight-5x01-previously-on",
+    "name": "Previously on...",
+    "season": 5,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2021-06-24",
+    "airtime": "",
+    "airstamp": "2021-06-24T12:00:00+00:00",
+    "runtime": 51,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/332/832133.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/832133.jpg"
+    },
+    "summary": "<p>A flashback to 2020 reveals how the team at Reddick, Boseman &amp; Lockhart experienced the year's major events.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2093423" } }
+  },
+  {
+    "id": 2119140,
+    "url": "https://www.tvmaze.com/episodes/2119140/the-good-fight-5x02-once-there-was-a-court",
+    "name": "Once there was a court...",
+    "season": 5,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2021-07-01",
+    "airtime": "",
+    "airstamp": "2021-07-01T12:00:00+00:00",
+    "runtime": 51,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/334/837417.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/334/837417.jpg"
+    },
+    "summary": "<p>Diane and Marissa find themselves arguing at the Circuit 9 3/4 Court, led by the quirky \"Judge\" Hal Wackner. Meanwhile, Carmen Moyo proves herself to be an effective, yet underestimated, new associate.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2119140" } }
+  },
+  {
+    "id": 2122859,
+    "url": "https://www.tvmaze.com/episodes/2122859/the-good-fight-5x03-and-the-court-had-a-clerk",
+    "name": "And the court had a clerk…",
+    "season": 5,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2021-07-08",
+    "airtime": "",
+    "airstamp": "2021-07-08T12:00:00+00:00",
+    "runtime": 54,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/337/844768.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/337/844768.jpg"
+    },
+    "summary": "<p>Diane is aghast when Kurt reveals he recognized the face of a man featured in a U.S. Capitol insurrection \"Most Wanted\" poster. Intrigued by Wackner, Marissa sneaks over to his copy shop \"courtroom\" and is thrilled by what she encounters. Back in legitimate court, Liz uses a current case to tackle Section 230.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2122859" } }
+  },
+  {
+    "id": 2130719,
+    "url": "https://www.tvmaze.com/episodes/2130719/the-good-fight-5x04-and-the-clerk-had-a-firm",
+    "name": "And the clerk had a firm…",
+    "season": 5,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2021-07-15",
+    "airtime": "",
+    "airstamp": "2021-07-15T12:00:00+00:00",
+    "runtime": 54,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850912.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850912.jpg"
+    },
+    "summary": "<p>When a comedy streaming network executive, Del Cooper, asks Liz to conduct a sensitivity read on one of his comedians, the entire firm ends up fighting over how comedy and 'cancel culture' collide. Meanwhile, FBI agent Madeline Starkey goes after Kurt for his alleged involvement in the U.S. Capitol insurrection.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2130719" } }
+  },
+  {
+    "id": 2131270,
+    "url": "https://www.tvmaze.com/episodes/2131270/the-good-fight-5x05-and-the-firm-had-two-partners",
+    "name": "And the firm had two partners...",
+    "season": 5,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2021-07-22",
+    "airtime": "",
+    "airstamp": "2021-07-22T12:00:00+00:00",
+    "runtime": 57,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/342/855528.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/342/855528.jpg"
+    },
+    "summary": "<p>Liz and Carmen represent Oscar Rivi, who is suing Harbor Hospital over the wrongful death of his daughter. Jay's investigation of the case triggers some PTSD that forces him to dig deeper into his own experience with Covid. With Madeline Starkey still hell-bent on getting Kurt to come clean, Diane decides to take matters into her own hands.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2131270" } }
+  },
+  {
+    "id": 2136904,
+    "url": "https://www.tvmaze.com/episodes/2136904/the-good-fight-5x06-and-the-two-partners-had-a-fight",
+    "name": "And the two partners had a fight…",
+    "season": 5,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2021-07-29",
+    "airtime": "",
+    "airstamp": "2021-07-29T12:00:00+00:00",
+    "runtime": 57,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/344/861579.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/344/861579.jpg"
+    },
+    "summary": "<p>When Reddick/Lockhart associates start posting anonymous hate messages about Julius and Diane on a new interoffice app, Diane's name partner position at the firm is once again questioned. At home, Diane grapples with her marriage after learning Kurt is considering a job offer from the NRA. Meanwhile, Wackner goes to real court to have his approach and sanity questioned.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2136904" } }
+  },
+  {
+    "id": 2136905,
+    "url": "https://www.tvmaze.com/episodes/2136905/the-good-fight-5x07-and-the-fight-had-a-detente",
+    "name": "And the fight had a detente...",
+    "season": 5,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2021-08-05",
+    "airtime": "",
+    "airstamp": "2021-08-05T12:00:00+00:00",
+    "runtime": 52,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/346/865696.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/346/865696.jpg"
+    },
+    "summary": "<p>At Circuit 9 3/4 court, Marissa is assigned to \"prosecute\" two contrasting \"cancel culture\" cases, which both leave her questioning the intentions of Wackner, David Cord and Del Cooper. The tension between Diane and Liz increases while they work together on a high profile case against the Chicago PD.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2136905" } }
+  },
+  {
+    "id": 2144951,
+    "url": "https://www.tvmaze.com/episodes/2144951/the-good-fight-5x08-and-the-detente-had-an-end",
+    "name": "And the detente had an end...",
+    "season": 5,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2021-08-12",
+    "airtime": "",
+    "airstamp": "2021-08-12T12:00:00+00:00",
+    "runtime": 41,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/348/870886.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/348/870886.jpg"
+    },
+    "summary": "<p>Julius fights to defend himself in Wackner's court in a surreal and harrowing effort to reclaim his car...and his dignity-all because of an alleged parking violation. Meanwhile, after focus group feedback threatens to sink Del Cooper's reality show about Wackner, both Marissa and Wackner embrace different tactics to help revive the court.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2144951" } }
+  },
+  {
+    "id": 2144952,
+    "url": "https://www.tvmaze.com/episodes/2144952/the-good-fight-5x09-and-the-end-was-violent",
+    "name": "And the end was violent...",
+    "season": 5,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2021-08-19",
+    "airtime": "",
+    "airstamp": "2021-08-19T12:00:00+00:00",
+    "runtime": 46,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/350/875109.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/350/875109.jpg"
+    },
+    "summary": "<p>Liz and Diane struggle to get David Lee and the Dubai overlords to accept the new name partner, Allegra Jurado. Oscar Rivi attempts to make his cannabis business legitimate, but realizes that the corporate world can be just as cut-throat as his own. When the justice system fails to detain and prevent a man from continually committing anti-Asian hate crime, the cops discover another way for justice -- Wackner's court.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2144952" } }
+  },
+  {
+    "id": 2151069,
+    "url": "https://www.tvmaze.com/episodes/2151069/the-good-fight-5x10-tba",
+    "name": "TBA",
+    "season": 5,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2021-08-26",
+    "airtime": "",
+    "airstamp": "2021-08-26T12:00:00+00:00",
+    "runtime": null,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2151069" } }
+  }
+]
