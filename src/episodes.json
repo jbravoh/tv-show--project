@@ -1,899 +1,1316 @@
 [
   {
-    "id": 1008862,
-    "url": "https://www.tvmaze.com/episodes/1008862/the-good-fight-1x01-inauguration",
-    "name": "Inauguration",
+    "id": 4952,
+    "url": "https://www.tvmaze.com/episodes/4952/game-of-thrones-1x01-winter-is-coming",
+    "name": "Winter is Coming",
     "season": 1,
     "number": 1,
     "type": "regular",
-    "airdate": "2017-02-19",
-    "airtime": "",
-    "airstamp": "2017-02-19T17:00:00+00:00",
+    "airdate": "2011-04-17",
+    "airtime": "21:00",
+    "airstamp": "2011-04-18T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/99/248194.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/99/248194.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2668.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2668.jpg"
     },
-    "summary": "<p>After a financial scam destorys the reputation of lawyer Maia Rindell, while wiping out her mentor and godmother, Diane Lockhart's, savings; Maia and Diane join one of Chicago's preeminent law firms.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1008862" } }
+    "summary": "<p>Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4952" } }
   },
   {
-    "id": 1066324,
-    "url": "https://www.tvmaze.com/episodes/1066324/the-good-fight-1x02-first-week",
-    "name": "First Week",
+    "id": 4953,
+    "url": "https://www.tvmaze.com/episodes/4953/game-of-thrones-1x02-the-kingsroad",
+    "name": "The Kingsroad",
     "season": 1,
     "number": 2,
     "type": "regular",
-    "airdate": "2017-02-19",
-    "airtime": "",
-    "airstamp": "2017-02-19T17:00:00+00:00",
+    "airdate": "2011-04-24",
+    "airtime": "21:00",
+    "airstamp": "2011-04-25T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/99/248193.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/99/248193.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2669.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2669.jpg"
     },
-    "summary": "<p>Diane raises eyebrows while settling in as a new partner at Reddick, Boseman &amp; Kolstad. Maia continues to deal with the repercussions of her family's Ponzi scheme. Lucca and Maia unexpectedly pick up a new case.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1066324" } }
+    "summary": "<p>An incident on the Kingsroad threatens Eddard and Robert's friendship. Jon and Tyrion travel to the Wall, where they discover that the reality of the Night's Watch may not match the heroic image of it.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4953" } }
   },
   {
-    "id": 1073966,
-    "url": "https://www.tvmaze.com/episodes/1073966/the-good-fight-1x03-the-schtup-list",
-    "name": "The Schtup List",
+    "id": 4954,
+    "url": "https://www.tvmaze.com/episodes/4954/game-of-thrones-1x03-lord-snow",
+    "name": "Lord Snow",
     "season": 1,
     "number": 3,
     "type": "regular",
-    "airdate": "2017-02-26",
-    "airtime": "",
-    "airstamp": "2017-02-26T17:00:00+00:00",
+    "airdate": "2011-05-01",
+    "airtime": "21:00",
+    "airstamp": "2011-05-02T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/100/250114.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/100/250114.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2671.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2671.jpg"
     },
-    "summary": "<p>Adrian and Barbara face a cruel realization about a high profile client. While second chair to Diane on a case, Lucca is in for more than she bargained for thanks to the state's attorney's office's golden boy, Colin Morello. Maia visits her father in prison.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1073966" } }
+    "summary": "<p>Jon Snow attempts to find his place amongst the Night's Watch. Eddard and his daughters arrive at King's Landing.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4954" } }
   },
   {
-    "id": 1084613,
-    "url": "https://www.tvmaze.com/episodes/1084613/the-good-fight-1x04-henceforth-known-as-property",
-    "name": "Henceforth Known as Property",
+    "id": 4955,
+    "url": "https://www.tvmaze.com/episodes/4955/game-of-thrones-1x04-cripples-bastards-and-broken-things",
+    "name": "Cripples, Bastards, and Broken Things",
     "season": 1,
     "number": 4,
     "type": "regular",
-    "airdate": "2017-03-05",
-    "airtime": "",
-    "airstamp": "2017-03-05T17:00:00+00:00",
+    "airdate": "2011-05-08",
+    "airtime": "21:00",
+    "airstamp": "2011-05-09T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/101/254662.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/101/254662.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2673.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2673.jpg"
     },
-    "summary": "<p>Diane and Lucca represent an ovarian cancer survivor looking to obtain custody of her previously donated embryos. Maia is the victim of a fake social media account. Mike Kresteva pays a visit to Reddick, Boseman &amp; Kolstad.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1084613" } }
+    "summary": "<p>Tyrion stops at Winterfell on his way home and gets a frosty reception from Robb Stark. Eddard's investigation into the death of his predecessor gets underway.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4955" } }
   },
   {
-    "id": 1091165,
-    "url": "https://www.tvmaze.com/episodes/1091165/the-good-fight-1x05-stoppable-requiem-for-an-airdate",
-    "name": "Stoppable: Requiem for an Airdate",
+    "id": 4956,
+    "url": "https://www.tvmaze.com/episodes/4956/game-of-thrones-1x05-the-wolf-and-the-lion",
+    "name": "The Wolf and the Lion",
     "season": 1,
     "number": 5,
     "type": "regular",
-    "airdate": "2017-03-12",
-    "airtime": "",
-    "airstamp": "2017-03-12T16:00:00+00:00",
+    "airdate": "2011-05-15",
+    "airtime": "21:00",
+    "airstamp": "2011-05-16T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/101/254664.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/101/254664.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2674.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2674.jpg"
     },
-    "summary": "<p>Lucca defends a TV writer-producer in a copyright infringement case with ties to the President of the United States. Mike Kresteva takes aim at Reddick, Boseman &amp; Kolstad.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1091165" } }
+    "summary": "<p>Catelyn's actions on the road have repercussions for Eddard. Tyrion enjoys the dubious hospitality of the Eyrie.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4956" } }
   },
   {
-    "id": 1098151,
-    "url": "https://www.tvmaze.com/episodes/1098151/the-good-fight-1x06-social-media-and-its-discontents",
-    "name": "Social Media and Its Discontents",
+    "id": 4957,
+    "url": "https://www.tvmaze.com/episodes/4957/game-of-thrones-1x06-a-golden-crown",
+    "name": "A Golden Crown",
     "season": 1,
     "number": 6,
     "type": "regular",
-    "airdate": "2017-03-19",
-    "airtime": "",
-    "airstamp": "2017-03-19T16:00:00+00:00",
+    "airdate": "2011-05-22",
+    "airtime": "21:00",
+    "airstamp": "2011-05-23T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/102/256992.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/102/256992.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2676.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2676.jpg"
     },
-    "summary": "<p>After landing tech mogul Neil Gross as a new client, the firm is tasked with figuring out a way to combat hate speech on his social media platform. Maia's suspicions about her father grow after Uncle Jax pays an unwelcome visit. Lucca and Colin's romance heats up.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1098151" } }
+    "summary": "<p>Viserys is increasingly frustrated by the lack of progress towards gaining his crown.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4957" } }
   },
   {
-    "id": 1102456,
-    "url": "https://www.tvmaze.com/episodes/1102456/the-good-fight-1x07-not-so-grand-jury",
-    "name": "Not So Grand Jury",
+    "id": 4958,
+    "url": "https://www.tvmaze.com/episodes/4958/game-of-thrones-1x07-you-win-or-you-die",
+    "name": "You Win or You Die",
     "season": 1,
     "number": 7,
     "type": "regular",
-    "airdate": "2017-03-26",
-    "airtime": "",
-    "airstamp": "2017-03-26T16:00:00+00:00",
+    "airdate": "2011-05-29",
+    "airtime": "21:00",
+    "airstamp": "2011-05-30T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/103/259755.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/259755.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2677.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2677.jpg"
     },
-    "summary": "<p>Mike Kresteva takes his case against Reddick, Boseman &amp; Kolstad to a grand jury, but the firm devises a grand jury strategy of their own to hamper Kresteva's efforts. Colin finds himself in an awkward position in court.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1102456" } }
+    "summary": "<p>Eddard's investigations in King's Landing reach a climax and a dark secret is revealed.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4958" } }
   },
   {
-    "id": 1112271,
-    "url": "https://www.tvmaze.com/episodes/1112271/the-good-fight-1x08-reddick-v-boseman",
-    "name": "Reddick v Boseman",
+    "id": 4959,
+    "url": "https://www.tvmaze.com/episodes/4959/game-of-thrones-1x08-the-pointy-end",
+    "name": "The Pointy End",
     "season": 1,
     "number": 8,
     "type": "regular",
-    "airdate": "2017-04-02",
-    "airtime": "",
-    "airstamp": "2017-04-02T16:00:00+00:00",
+    "airdate": "2011-06-05",
+    "airtime": "21:00",
+    "airstamp": "2011-06-06T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/105/262868.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/105/262868.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2678.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2678.jpg"
     },
-    "summary": "<p>Founding partner, Carl Reddick, makes a surprise return to the firm. A renowned local pastor needs the firm's help in a legal matter that threatens to ruin his legacy. Lucca unexpectedly meets Colin's parents. Meanwhile, Henry attempts to reconnect with Maia.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1112271" } }
+    "summary": "<p>Tyrion joins his father's army with unexpected allies. Events in King's Landing take a turn for the worse as Arya's lessons are put to the test.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4959" } }
   },
   {
-    "id": 1119338,
-    "url": "https://www.tvmaze.com/episodes/1119338/the-good-fight-1x09-self-condemned",
-    "name": "Self Condemned",
+    "id": 4960,
+    "url": "https://www.tvmaze.com/episodes/4960/game-of-thrones-1x09-baelor",
+    "name": "Baelor",
     "season": 1,
     "number": 9,
     "type": "regular",
-    "airdate": "2017-04-09",
-    "airtime": "",
-    "airstamp": "2017-04-09T16:00:00+00:00",
+    "airdate": "2011-06-12",
+    "airtime": "21:00",
+    "airstamp": "2011-06-13T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/106/265861.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/106/265861.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2679.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2679.jpg"
     },
-    "summary": "<p>Diane and Adrian find themselves involved in another police brutality case, this time representing a surprising but familiar face, Colin Sweeney. Lucca represents Maia for her interview with a federal investigator seeking information on the Rindell scandal.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1119338" } }
+    "summary": "<p>Catelyn must negotiate with the irascible Lord Walder Frey.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4960" } }
   },
   {
-    "id": 1127054,
-    "url": "https://www.tvmaze.com/episodes/1127054/the-good-fight-1x10-chaos",
-    "name": "Chaos",
+    "id": 4961,
+    "url": "https://www.tvmaze.com/episodes/4961/game-of-thrones-1x10-fire-and-blood",
+    "name": "Fire and Blood",
     "season": 1,
     "number": 10,
     "type": "regular",
-    "airdate": "2017-04-16",
-    "airtime": "",
-    "airstamp": "2017-04-16T16:00:00+00:00",
+    "airdate": "2011-06-19",
+    "airtime": "21:00",
+    "airstamp": "2011-06-20T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/107/268622.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/268622.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2681.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2681.jpg"
     },
-    "summary": "<p>Diane takes on a new client who is accused of cyber-terrorism, resulting in unforeseen repercussions for the firm, especially Lucca. An accident brings Diane and Kurt together. Henry reveals new truths about the scandal to Maia.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1127054" } }
+    "summary": "<p>Daenerys must realize her destiny. Jaime finds himself in an unfamiliar predicament.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4961" } }
   },
   {
-    "id": 1372508,
-    "url": "https://www.tvmaze.com/episodes/1372508/the-good-fight-2x01-day-408",
-    "name": "Day 408",
+    "id": 4962,
+    "url": "https://www.tvmaze.com/episodes/4962/game-of-thrones-2x01-the-north-remembers",
+    "name": "The North Remembers",
     "season": 2,
     "number": 1,
     "type": "regular",
-    "airdate": "2018-03-04",
-    "airtime": "",
-    "airstamp": "2018-03-04T17:00:00+00:00",
+    "airdate": "2012-04-01",
+    "airtime": "21:00",
+    "airstamp": "2012-04-02T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402258.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402258.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3174.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3174.jpg"
     },
-    "summary": "<p>An unfortunate event brings the firm together, along with the prospect of a new name partner, Liz Reddick-Lawrence. Meanwhile, Diane struggles to grapple with the insanity of the world and Maia is confronted with another hurdle in her parents' scandal.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1372508" } }
+    "summary": "<p>War grips the continent of Westeros. As Tyrion Lannister tries to take his strong-willed nephew in hand in King's Landing, Stannis Baratheon launches his own campaign to take the Iron Throne with the help of a mysterious priestess. In the east, Daenerys must lead her retinue through a desolate wasteland whilst beyond the Wall the Night's Watch seeks the aid of a wildling.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4962" } }
   },
   {
-    "id": 1413818,
-    "url": "https://www.tvmaze.com/episodes/1413818/the-good-fight-2x02-day-415",
-    "name": "Day 415",
+    "id": 4963,
+    "url": "https://www.tvmaze.com/episodes/4963/game-of-thrones-2x02-the-night-lands",
+    "name": "The Night Lands",
     "season": 2,
     "number": 2,
     "type": "regular",
-    "airdate": "2018-03-11",
-    "airtime": "",
-    "airstamp": "2018-03-11T16:00:00+00:00",
+    "airdate": "2012-04-08",
+    "airtime": "21:00",
+    "airstamp": "2012-04-09T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402259.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402259.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3175.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3175.jpg"
     },
-    "summary": "<p>Tensions remain high when the firm learns another Chicago lawyer has been murdered by a client. Liz has her first day at Reddick, Boseman and Lockhart and positions herself as a potential ally for Diane. Maia's trial takes an unwelcome turn when a surprise witness is called to testify against her. Lucca and Colin go head-to-head in court.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1413818" } }
+    "summary": "<p>Stannis uses Ser Davos to seek out new allies for his war with the Lannisters. On the road north, Arya confides in Gendry. Robb Stark sends Theon Greyjoy to win an alliance with his father and the fierce warriors of the Iron Islands. Cersei and Tyrion clash on how to rule in King's Landing.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4963" } }
   },
   {
-    "id": 1424294,
-    "url": "https://www.tvmaze.com/episodes/1424294/the-good-fight-2x03-day-422",
-    "name": "Day 422",
+    "id": 4964,
+    "url": "https://www.tvmaze.com/episodes/4964/game-of-thrones-2x03-what-is-dead-may-never-die",
+    "name": "What is Dead May Never Die",
     "season": 2,
     "number": 3,
     "type": "regular",
-    "airdate": "2018-03-18",
-    "airtime": "",
-    "airstamp": "2018-03-18T16:00:00+00:00",
+    "airdate": "2012-04-15",
+    "airtime": "21:00",
+    "airstamp": "2012-04-16T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402260.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402260.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3176.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3176.jpg"
     },
-    "summary": "<p>Reddick, Boseman and Lockhart represent a young woman who was assaulted while a contestant on a reality dating show; Diane fears she might be the killer's next target.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1424294" } }
+    "summary": "<p>Catelyn Stark treats with King Renly in the hope of winning an alliance. Tyrion undertakes a complex plan in King's Landing to expose an enemy. At Winterfell, Bran's dreams continue to trouble him.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4964" } }
   },
   {
-    "id": 1427455,
-    "url": "https://www.tvmaze.com/episodes/1427455/the-good-fight-2x04-day-429",
-    "name": "Day 429",
+    "id": 4965,
+    "url": "https://www.tvmaze.com/episodes/4965/game-of-thrones-2x04-garden-of-bones",
+    "name": "Garden of Bones",
     "season": 2,
     "number": 4,
     "type": "regular",
-    "airdate": "2018-03-25",
-    "airtime": "",
-    "airstamp": "2018-03-25T16:00:00+00:00",
+    "airdate": "2012-04-22",
+    "airtime": "21:00",
+    "airstamp": "2012-04-23T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402261.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402261.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3177.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3177.jpg"
     },
-    "summary": "<p>Liz decides to represent her son's favorite teacher after she senses the school fired him for illegitimate reasons. Lucca enlists the help of Elsbeth Tascioni when an unanticipated lawsuit hits close to home. Despite the recent chemical scare, the firm throws a party to celebrate their new offices.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1427455" } }
+    "summary": "<p>Tyrion attempts to restrain Joffrey's cruelty. Catelyn attempts to broker a peace between Stannis and Renly. Daenerys and her followers arrive at the great city of Qarth and hope to find refuge there. Arya and Gendry arrive at Harrenhal, a great castle now under Lannister occupation.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4965" } }
   },
   {
-    "id": 1429503,
-    "url": "https://www.tvmaze.com/episodes/1429503/the-good-fight-2x05-day-436",
-    "name": "Day 436",
+    "id": 4966,
+    "url": "https://www.tvmaze.com/episodes/4966/game-of-thrones-2x05-the-ghost-of-harrenhal",
+    "name": "The Ghost of Harrenhal",
     "season": 2,
     "number": 5,
     "type": "regular",
-    "airdate": "2018-04-01",
-    "airtime": "",
-    "airstamp": "2018-04-01T16:00:00+00:00",
+    "airdate": "2012-04-29",
+    "airtime": "21:00",
+    "airstamp": "2012-04-30T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402262.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402262.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3178.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3178.jpg"
     },
-    "summary": "<p>Adrian and Diane serve as outside counsel for a broadcast network planning to air a controversial segment that would delrail the career of a beloved male movie star. Maia and Lucca have vastly different experiences while on separate ride-alongs with the Chicago Police Department.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1429503" } }
+    "summary": "<p>Confusion rages in the Stormlands in the wake of a devastating reversal. Catelyn must flee with a new ally, whilst Littlefinger sees an opportunity in the chaos. Theon seeks to prove himself to his father in battle. Arya receives a promise from the enigmatic Jaqen H'ghar. The Night's Watch arrives at the Fist of the First Men. Daenerys Targaryen receives a marriage proposal.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4966" } }
   },
   {
-    "id": 1439003,
-    "url": "https://www.tvmaze.com/episodes/1439003/the-good-fight-2x06-day-443",
-    "name": "Day 443",
+    "id": 4967,
+    "url": "https://www.tvmaze.com/episodes/4967/game-of-thrones-2x06-the-old-gods-and-the-new",
+    "name": "The Old Gods and the New",
     "season": 2,
     "number": 6,
     "type": "regular",
-    "airdate": "2018-04-08",
-    "airtime": "",
-    "airstamp": "2018-04-08T16:00:00+00:00",
+    "airdate": "2012-05-06",
+    "airtime": "21:00",
+    "airstamp": "2012-05-07T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402263.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402263.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3180.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3180.jpg"
     },
-    "summary": "<p>Adrian becomes an overnight celebrity after his candid appearance on a cable news show goes viral. Lucca, who has yet to formally announce her pregnancy, worries about her future at the firm. Meanwhile, Adrian's newfound cable news fame grabs the attention of Chicago's top law firm and the jury of his latest case.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439003" } }
+    "summary": "<p>Arya has a surprise visitor; Dany vows to take what is hers; Joffrey meets his subjects; Qhorin gives Jon a chance to prove himself.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4967" } }
   },
   {
-    "id": 1439004,
-    "url": "https://www.tvmaze.com/episodes/1439004/the-good-fight-2x07-day-450",
-    "name": "Day 450",
+    "id": 4968,
+    "url": "https://www.tvmaze.com/episodes/4968/game-of-thrones-2x07-a-man-without-honor",
+    "name": "A Man Without Honor",
     "season": 2,
     "number": 7,
     "type": "regular",
-    "airdate": "2018-04-15",
-    "airtime": "",
-    "airstamp": "2018-04-15T16:00:00+00:00",
+    "airdate": "2012-05-13",
+    "airtime": "21:00",
+    "airstamp": "2012-05-14T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402265.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402265.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3192.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3192.jpg"
     },
-    "summary": "<p>A Democratic National Committee consultant, Ruth Eastman, approaches Reddick, Boseman and Lockhart to develop a confidential impeachment strategy for the DNC against President Trump, leaving the firm's partners at odds. After an impromptu visit from Colin's mom, Lucca is left feeling suspicious of her motives. Maia is intrigued by Ruth's assistant, Carine.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439004" } }
+    "summary": "<p>Jaime meets a relative; Theon hunts; Dany receives an invitation.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4968" } }
   },
   {
-    "id": 1439005,
-    "url": "https://www.tvmaze.com/episodes/1439005/the-good-fight-2x08-day-457",
-    "name": "Day 457",
+    "id": 4969,
+    "url": "https://www.tvmaze.com/episodes/4969/game-of-thrones-2x08-the-prince-of-winterfell",
+    "name": "The Prince of Winterfell",
     "season": 2,
     "number": 8,
     "type": "regular",
-    "airdate": "2018-04-22",
-    "airtime": "",
-    "airstamp": "2018-04-22T16:00:00+00:00",
+    "airdate": "2012-05-20",
+    "airtime": "21:00",
+    "airstamp": "2012-05-21T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402266.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402266.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3194.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3194.jpg"
     },
-    "summary": "<p>Reddick, Boseman and Lockhart represent an African-American undercover cop, Rashid Clarkson, who was left crippled after being shot by another Chicago police officer in the line of duty. The case's opposing counsel is legend Solomon Waltzer, whose tactics have the firm questioning the legitimacy of his evidence. Diane finds herself at a crossroads with both Kurt and Tully.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439005" } }
+    "summary": "<p>Theon holds the fort; Arya calls in her debt with Jaqen; Robb is betrayed; Stannis and Davos approach their destination.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4969" } }
   },
   {
-    "id": 1439006,
-    "url": "https://www.tvmaze.com/episodes/1439006/the-good-fight-2x09-day-464",
-    "name": "Day 464",
+    "id": 4970,
+    "url": "https://www.tvmaze.com/episodes/4970/game-of-thrones-2x09-blackwater",
+    "name": "Blackwater",
     "season": 2,
     "number": 9,
     "type": "regular",
-    "airdate": "2018-04-29",
-    "airtime": "",
-    "airstamp": "2018-04-29T16:00:00+00:00",
+    "airdate": "2012-05-27",
+    "airtime": "21:00",
+    "airstamp": "2012-05-28T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402267.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402267.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3196.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3196.jpg"
     },
-    "summary": "<p>A Russian student asks Diane to protect her from deportation, claiming she was one of the women filmed with President Trump in the alleged \"Golden Shower\" tape. Meanwhile, Maia and Lucca suggest an unconventional lawyer to represent Jay's friend Craig Savador at his upcoming appeal and Colin meets with the Cook County Democratic Committee. Margo Martindale, Jane Lynch, Michael Ian Black and Fisher Stevens guest star.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439006" } }
+    "summary": "<p>A massive battle rages for control of King's Landing and the Iron Throne.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4970" } }
   },
   {
-    "id": 1439007,
-    "url": "https://www.tvmaze.com/episodes/1439007/the-good-fight-2x10-day-471",
-    "name": "Day 471",
+    "id": 4971,
+    "url": "https://www.tvmaze.com/episodes/4971/game-of-thrones-2x10-valar-morghulis",
+    "name": "Valar Morghulis",
     "season": 2,
     "number": 10,
     "type": "regular",
-    "airdate": "2018-05-06",
-    "airtime": "",
-    "airstamp": "2018-05-06T16:00:00+00:00",
+    "airdate": "2012-06-03",
+    "airtime": "21:00",
+    "airstamp": "2012-06-04T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402268.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402268.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3197.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3197.jpg"
     },
-    "summary": "<p>Reddick, Boseman and Lockhart is left in disarray after a partner at the firm becomes the latest \"Kill All Lawyers\" victim by an unknown assailant. The Chicago police chief causes a stir when he goes after the firm's high profile clients Lemond Bishop and Colin Sweeney as potential suspects. Amidst the chaos, Colin is reminded of his true feelings for Lucca.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439007" } }
+    "summary": "<p>Tyrion awakens to a changed situation. King Joffrey doles out rewards to his subjects. As Theon stirs his men to action, Luwin offers some final advice. Brienne silences Jaime; Arya receives a gift from Jaqen; Dany goes to a strange place; Jon proves himself to Qhorin.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4971" } }
   },
   {
-    "id": 1439008,
-    "url": "https://www.tvmaze.com/episodes/1439008/the-good-fight-2x11-day-478",
-    "name": "Day 478",
-    "season": 2,
-    "number": 11,
-    "type": "regular",
-    "airdate": "2018-05-13",
-    "airtime": "",
-    "airstamp": "2018-05-13T16:00:00+00:00",
-    "runtime": 60,
-    "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402269.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402269.jpg"
-    },
-    "summary": "<p>Heated debates occur at the firm when Liz and Maia represent a well-known photographer, Ron Williams, suing a woman who provided an account of their relationship to a website. Jay continues to investigate possible suspects in Adrian's shooting while Diane receives surprising news from her accountant. Becky Ann Baker, Anthony Rapp and Gary Cole guest star.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439008" } }
-  },
-  {
-    "id": 1439009,
-    "url": "https://www.tvmaze.com/episodes/1439009/the-good-fight-2x12-day-485",
-    "name": "Day 485",
-    "season": 2,
-    "number": 12,
-    "type": "regular",
-    "airdate": "2018-05-20",
-    "airtime": "",
-    "airstamp": "2018-05-20T16:00:00+00:00",
-    "runtime": 60,
-    "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402270.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402270.jpg"
-    },
-    "summary": "<p>Jay is arrested on a fraudulent charge while driving Maia and a witness in a case involving Colin Sweeney's fiancée, Naftali Amado, to court. The firm rallies to help Jay when they realize U.S. Immigration and Customs Enforcement is involved with his arrest and may have ulterior motives. Jane Alexander, Katrina Lenk and Nikki M. James guest star.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439009" } }
-  },
-  {
-    "id": 1439010,
-    "url": "https://www.tvmaze.com/episodes/1439010/the-good-fight-2x13-day-492",
-    "name": "Day 492",
-    "season": 2,
-    "number": 13,
-    "type": "regular",
-    "airdate": "2018-05-27",
-    "airtime": "",
-    "airstamp": "2018-05-27T12:00:00+00:00",
-    "runtime": 60,
-    "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/402271.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/402271.jpg"
-    },
-    "summary": "<p>Season two finale. The FBI question Diane as part of a job background check on Kurt, leading to unexpected and serious consequences. The mayor of Chicago invites Adrian and Julius to join a ‘think tank' tasked with figuring out how to spend funds that will address the \"Kill All Lawyers\" problem. Chaos ensues in the delivery room after Lucca goes into labor early. Andrea Martin, Judith Light, Mo Rocca, Margo Martindale, Tim Matheson and Gary Cole guest star.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1439010" } }
-  },
-  {
-    "id": 1600099,
-    "url": "https://www.tvmaze.com/episodes/1600099/the-good-fight-3x01-the-one-about-the-recent-troubles",
-    "name": "The One About the Recent Troubles",
+    "id": 4972,
+    "url": "https://www.tvmaze.com/episodes/4972/game-of-thrones-3x01-valar-dohaeris",
+    "name": "Valar Dohaeris",
     "season": 3,
     "number": 1,
     "type": "regular",
-    "airdate": "2019-03-14",
-    "airtime": "",
-    "airstamp": "2019-03-14T12:00:00+00:00",
+    "airdate": "2013-03-31",
+    "airtime": "21:00",
+    "airstamp": "2013-04-01T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/187/469341.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/187/469341.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2628.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2628.jpg"
     },
-    "summary": "<p>Season three premiere. A storm is brewing at Reddick, Boseman &amp; Lockhart when revelations of past indiscretions involving a partner come to light. Right when she thought the world couldn't get any crazier, an incident at home pushes Diane to her breaking point. Meanwhile, Lucca is brought a new opportunity while Marissa teaches Maia to toughen up.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1600099" } }
+    "summary": "<p></p><p>Jon is brought before Mance Rayder, the King Beyond the Wall, while the Night's Watch survivors retreat south. In King's Landing, Tyrion asks for his reward. Littlefinger offers Sansa a way out. Cersei hosts a dinner for the royal family. Daenerys sails into Slaver's Bay.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4972" } }
   },
   {
-    "id": 1624765,
-    "url": "https://www.tvmaze.com/episodes/1624765/the-good-fight-3x02-the-one-inspired-by-roy-cohn",
-    "name": "The One Inspired by Roy Cohn",
+    "id": 4973,
+    "url": "https://www.tvmaze.com/episodes/4973/game-of-thrones-3x02-dark-wings-dark-words",
+    "name": "Dark Wings, Dark Words",
     "season": 3,
     "number": 2,
     "type": "regular",
-    "airdate": "2019-03-21",
-    "airtime": "",
-    "airstamp": "2019-03-21T12:00:00+00:00",
+    "airdate": "2013-04-07",
+    "airtime": "21:00",
+    "airstamp": "2013-04-08T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/188/472251.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/188/472251.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2618.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2618.jpg"
     },
-    "summary": "<p>Corruption incarnate enters the courtroom in the form of attorney Roland Blum, Maia's new co-counsel on a hug trial. The firm interviews a potential new head of matrimonial law, but Lucca is skeptical of his qualifications. Diane lets off some steam after finding out who recommended Kurt for a new job</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1624765" } }
+    "summary": "<p>Sansa says too much. Shae asks Tyrion for a favor. Jaime finds a way to pass the time. Arya runs into the Brotherhood Without Banners.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4973" } }
   },
   {
-    "id": 1627748,
-    "url": "https://www.tvmaze.com/episodes/1627748/the-good-fight-3x03-the-one-where-diane-joins-the-resistance",
-    "name": "The One Where Diane Joins the Resistance",
+    "id": 4974,
+    "url": "https://www.tvmaze.com/episodes/4974/game-of-thrones-3x03-walk-of-punishment",
+    "name": "Walk of Punishment",
     "season": 3,
     "number": 3,
     "type": "regular",
-    "airdate": "2019-03-28",
-    "airtime": "",
-    "airstamp": "2019-03-28T12:00:00+00:00",
+    "airdate": "2013-04-14",
+    "airtime": "21:00",
+    "airstamp": "2013-04-15T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/189/474548.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474548.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2616.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2616.jpg"
     },
-    "summary": "<p>Diane is encouraged to \"do something\" after meeting the leader of a female resistance group whose aim is to sink POTUS' approval rating. Maia and Blum's plan for a plea deal goes awry when Assistant State's Attorney Spencer Zschau (Aaron Tveit) takes over the case. Lucca receives a surprising new divorce referral while Marissa helps Julius find a campaign manager to support his run for federal judgeship.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1627748" } }
+    "summary": "<p>Tyrion shoulders new responsibilities. Jon is taken to the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with his captors.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4974" } }
   },
   {
-    "id": 1633150,
-    "url": "https://www.tvmaze.com/episodes/1633150/the-good-fight-3x04-the-one-with-lucca-becoming-a-meme",
-    "name": "The One With Lucca Becoming a Meme",
+    "id": 4975,
+    "url": "https://www.tvmaze.com/episodes/4975/game-of-thrones-3x04-and-now-his-watch-is-ended",
+    "name": "And Now His Watch is Ended",
     "season": 3,
     "number": 4,
     "type": "regular",
-    "airdate": "2019-04-04",
-    "airtime": "",
-    "airstamp": "2019-04-04T12:00:00+00:00",
+    "airdate": "2013-04-21",
+    "airtime": "21:00",
+    "airstamp": "2013-04-22T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/190/476267.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476267.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2615.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2615.jpg"
     },
-    "summary": "<p>Lucca's involvement in a viral \"mothering while black\" video sparks conversations at Reddick, Boseman and Lockhart that unearth racial biases and pay disparity at the firm. Liz joins Diane at a resistance group meeting but their next act -- to help swing votes in key states -- hits close to home when the group decides they need a celebrity influencer. Maia faces serious consequences at the firm thanks to Blum.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1633150" } }
+    "summary": "<p>The Night's Watch takes stock. Varys meets his better. Arya is taken to the commander of the Brotherhood. Daenerys exchanges a chain for a Whip.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4975" } }
   },
   {
-    "id": 1637312,
-    "url": "https://www.tvmaze.com/episodes/1637312/the-good-fight-3x05-the-one-where-a-nazi-gets-punched",
-    "name": "The One Where a Nazi Gets Punched",
+    "id": 4976,
+    "url": "https://www.tvmaze.com/episodes/4976/game-of-thrones-3x05-kissed-by-fire",
+    "name": "Kissed by Fire",
     "season": 3,
     "number": 5,
     "type": "regular",
-    "airdate": "2019-04-11",
-    "airtime": "",
-    "airstamp": "2019-04-11T12:00:00+00:00",
+    "airdate": "2013-04-28",
+    "airtime": "21:00",
+    "airstamp": "2013-04-29T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/191/478357.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/191/478357.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2614.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2614.jpg"
     },
-    "summary": "<p>Blum weasels his way to a co-counsel seat on Reddick, Boseman &amp; Lockhart's largest case against genetics testing company Second Helix. While volunteering as democratic poll watchers in the suburbs of Chicago, Lucca and Jay come face to face with an alt-right group aiming to intimidate voters. Meanwhile, Maia attempts to move on while the partners grapple with a divided firm following revelations of pay disparity.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1637312" } }
+    "summary": "<p>The Hound is judged by the gods; Jaime is judged by men. Jon proves himself; Robb is betrayed. Tyrion learns the cost of weddings.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4976" } }
   },
   {
-    "id": 1641125,
-    "url": "https://www.tvmaze.com/episodes/1641125/the-good-fight-3x06-the-one-with-the-celebrity-divorce",
-    "name": "The One with the Celebrity Divorce",
+    "id": 4977,
+    "url": "https://www.tvmaze.com/episodes/4977/game-of-thrones-3x06-the-climb",
+    "name": "The Climb",
     "season": 3,
     "number": 6,
     "type": "regular",
-    "airdate": "2019-04-18",
-    "airtime": "",
-    "airstamp": "2019-04-18T12:00:00+00:00",
+    "airdate": "2013-05-05",
+    "airtime": "21:00",
+    "airstamp": "2013-05-06T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/192/480311.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/480311.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2612.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2612.jpg"
     },
-    "summary": "<p>Celebrity hairdresser Wade V seeks Lucca's help with a postnuptial agreement for a high profile client. Following their deal with Second Helix, Blum makes his presence well known at Reddick, Boseman &amp; Lockhart, rattling some partners more than others. With political pundits buzzing about the resistance group's covert efforts, Diane takes her axe throwing to the next level.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1641125" } }
+    "summary": "<p>Tywin plans strategic unions for the Lannisters. Melisandre visits the Riverlands. Robb weighs a compromise to repair his alliance with House Frey. Roose Bolton decides what to do with Jaime Lannister. Jon, Ygritte and the Wildlings face a daunting climb.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4977" } }
   },
   {
-    "id": 1645417,
-    "url": "https://www.tvmaze.com/episodes/1645417/the-good-fight-3x07-the-one-where-diane-and-liz-topple-democracy",
-    "name": "The One Where Diane and Liz Topple Democracy",
+    "id": 4978,
+    "url": "https://www.tvmaze.com/episodes/4978/game-of-thrones-3x07-the-bear-and-the-maiden-fair",
+    "name": "The Bear and the Maiden Fair",
     "season": 3,
     "number": 7,
     "type": "regular",
-    "airdate": "2019-04-25",
-    "airtime": "",
-    "airstamp": "2019-04-25T12:00:00+00:00",
+    "airdate": "2013-05-12",
+    "airtime": "21:00",
+    "airstamp": "2013-05-13T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/193/483073.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/193/483073.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2611.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2611.jpg"
     },
-    "summary": "<p>Diane and Liz deal with a close ally when assigned to a class action case involving malfunctioning voting machines in the 2016 presidential election. Blum's domineering tactics continue to push buttons at the firm while he purposefully stalls his work on Second Helix. Lucca is intrigued by a handsome associate of Blum's.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1645417" } }
+    "summary": "<p>Daenerys exchanges gifts with a slave lord outside Yunkai. As Sansa frets about her prospects, Shae chafes at Tyrion's new situation. Tywin counsels the king, and Melisandre reveals a secret to Gendry. Brienne faces a formidable foe in Harrenhal.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4978" } }
   },
   {
-    "id": 1648342,
-    "url": "https://www.tvmaze.com/episodes/1648342/the-good-fight-3x08-the-one-where-kurt-saves-diane",
-    "name": "The One Where Kurt Saves Diane",
+    "id": 4979,
+    "url": "https://www.tvmaze.com/episodes/4979/game-of-thrones-3x08-second-sons",
+    "name": "Second Sons",
     "season": 3,
     "number": 8,
     "type": "regular",
-    "airdate": "2019-05-02",
-    "airtime": "",
-    "airstamp": "2019-05-02T12:00:00+00:00",
+    "airdate": "2013-05-19",
+    "airtime": "21:00",
+    "airstamp": "2013-05-20T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/194/485712.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/194/485712.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2599.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2599.jpg"
     },
-    "summary": "<p>Felix Staples rattles the firm when he returns with a case against ChumHum, bringing along a familiar face as his representation, Solomon Waltzer. Diane receives a mysterious note at home, leading Kurt to question what she's been up to. Meanwhile, actor Gary Carr shadows Lucca for his upcoming role as a lawyer.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1648342" } }
+    "summary": "<p>King's Landing hosts a wedding, and Tyrion and Sansa spend the night together. Daenerys meets the Titan's Bastard. Davos demands proof from Melisandre. Sam and Gilly meet an older Gentleman.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4979" } }
   },
   {
-    "id": 1651709,
-    "url": "https://www.tvmaze.com/episodes/1651709/the-good-fight-3x09-the-one-where-the-sun-comes-out",
-    "name": "The One Where the Sun Comes Out",
+    "id": 4980,
+    "url": "https://www.tvmaze.com/episodes/4980/game-of-thrones-3x09-the-rains-of-castamere",
+    "name": "The Rains of Castamere",
     "season": 3,
     "number": 9,
     "type": "regular",
-    "airdate": "2019-05-09",
-    "airtime": "",
-    "airstamp": "2019-05-09T12:00:00+00:00",
+    "airdate": "2013-06-02",
+    "airtime": "21:00",
+    "airstamp": "2013-06-03T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/489394.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/489394.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2598.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2598.jpg"
     },
-    "summary": "<p>Reddick, Boseman &amp; Lockhart is asked by ChumHum to bring on a specialist, lawyer Brenda DeCarlo, to investigate any remaining misconduct or cultural issues within the firm. Diane begins to question the resistance group's tactics while Blum approaches Maia with an intriguing job offer.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1651709" } }
+    "summary": "<p>Robb presents himself to Walder Frey, and Edmure meets his bride. Jon faces his harshest test yet. Bran discovers a new gift. Daario and Jorah debate how to take Yunkai. House Frey joins with House Tully.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4980" } }
   },
   {
-    "id": 1651710,
-    "url": "https://www.tvmaze.com/episodes/1651710/the-good-fight-3x10-the-one-about-the-end-of-the-world",
-    "name": "The One About the End of the World",
+    "id": 4981,
+    "url": "https://www.tvmaze.com/episodes/4981/game-of-thrones-3x10-mhysa",
+    "name": "Mhysa",
     "season": 3,
     "number": 10,
     "type": "regular",
-    "airdate": "2019-05-16",
-    "airtime": "",
-    "airstamp": "2019-05-16T12:00:00+00:00",
+    "airdate": "2013-06-09",
+    "airtime": "21:00",
+    "airstamp": "2013-06-10T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/492769.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/492769.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2597.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2597.jpg"
     },
-    "summary": "<p>Blum is out for revenge when he represents a group of Reddick, Boseman &amp; Lockhart's ex-clients who claim the firm overcharged them. When Lucca finds out she's a candidate for an open partner position, she begins to question her reputation within the firm. Meanwhile, Diane helps Kurt with a work project.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1651710" } }
+    "summary": "<p>Joffrey challenges Tywin. Bran tells a ghost story. In Dragonstone, mercy comes from strange quarters. Daenerys waits to see if she is a conqueror or a liberator.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4981" } }
   },
   {
-    "id": 1801419,
-    "url": "https://www.tvmaze.com/episodes/1801419/the-good-fight-4x01-the-gang-deals-with-alternate-reality",
-    "name": "The Gang Deals with Alternate Reality",
+    "id": 4982,
+    "url": "https://www.tvmaze.com/episodes/4982/game-of-thrones-4x01-two-swords",
+    "name": "Two Swords",
     "season": 4,
     "number": 1,
     "type": "regular",
-    "airdate": "2020-04-09",
-    "airtime": "",
-    "airstamp": "2020-04-09T12:00:00+00:00",
+    "airdate": "2014-04-06",
+    "airtime": "21:00",
+    "airstamp": "2014-04-07T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/250/626810.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/250/626810.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2583.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2583.jpg"
     },
-    "summary": "<p>Diane Lockhart finds herself living in an alternate reality where Donald Trump was never elected and Hillary Clinton is the current president of the United States. While Diane's liberal self is overjoyed, she soon realizes how a different outcome of the 2016 election might have unexpected consequences.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1801419" } }
+    "summary": "<p>Tyrion welcomes a guest to King's Landing. At Castle Black, Jon Snow finds himself unwelcome. Dany is pointed to Meereen, the mother of all slave cities. Arya runs into an old friend.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4982" } }
   },
   {
-    "id": 1827744,
-    "url": "https://www.tvmaze.com/episodes/1827744/the-good-fight-4x02-the-gang-tries-to-serve-a-subpoena",
-    "name": "The Gang Tries to Serve a Subpoena",
+    "id": 4983,
+    "url": "https://www.tvmaze.com/episodes/4983/game-of-thrones-4x02-the-lion-and-the-rose",
+    "name": "The Lion and the Rose",
     "season": 4,
     "number": 2,
     "type": "regular",
-    "airdate": "2020-04-16",
-    "airtime": "",
-    "airstamp": "2020-04-16T12:00:00+00:00",
+    "airdate": "2014-04-13",
+    "airtime": "21:00",
+    "airstamp": "2014-04-14T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/252/630388.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/630388.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2584.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2584.jpg"
     },
-    "summary": "<p>Reddick, Boseman &amp; Lockhart attempt to adjust to their new landscape as a small subsidiary of STR Laurie, a huge multi-national law firm. Diane encounters a familiar face in court, Louis Canning, during an eminent domain case against a large real estate developer, Rare Orchard. Lucca is given an exciting, high-profile divorce case, however it comes with an unexpected partner, David Lee.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1827744" } }
+    "summary": "<p>Tyrion lends Jaime a hand. Joffrey and Margaery host a breakfast. At Dragonstone, Stannis loses patience with Davos. Ramsay finds a purpose for his pet. North of the Wall, Bran sees where they must go.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4983" } }
   },
   {
-    "id": 1829396,
-    "url": "https://www.tvmaze.com/episodes/1829396/the-good-fight-4x03-the-gang-gets-a-call-from-hr",
-    "name": "The Gang Gets a Call from HR",
+    "id": 4984,
+    "url": "https://www.tvmaze.com/episodes/4984/game-of-thrones-4x03-breaker-of-chains",
+    "name": "Breaker of Chains",
     "season": 4,
     "number": 3,
     "type": "regular",
-    "airdate": "2020-04-30",
-    "airtime": "",
-    "airstamp": "2020-04-30T12:00:00+00:00",
+    "airdate": "2014-04-20",
+    "airtime": "21:00",
+    "airstamp": "2014-04-21T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/636388.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/636388.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2585.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2585.jpg"
     },
-    "summary": "<p>When DNC head Frank Landau asks Reddick, Boseman &amp; Lockhart for help with a plan to engage African-American voters, the resulting discussion turns personal for one of the partners. Determined to sue Rare Orchard, Diane is shocked to learn that all court documents associated with the case are missing, leading her down an unexpected rabbit hole. Meanwhile, Marissa befriends Caleb Garlin (Hugh Dancy), an STR Laurie associate.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1829396" } }
+    "summary": "<p>Tyrion ponders his options. Tywin extends an olive branch. Sam realizes Castle Black isn't safe, and Jon proposes a bold plan. The Hound teaches Arya the way things are. Dany chooses her Champion.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4984" } }
   },
   {
-    "id": 1839130,
-    "url": "https://www.tvmaze.com/episodes/1839130/the-good-fight-4x04-the-gang-is-satirized-and-doesnt-like-it",
-    "name": "The Gang is Satirized and Doesn't Like It",
+    "id": 4985,
+    "url": "https://www.tvmaze.com/episodes/4985/game-of-thrones-4x04-oathkeeper",
+    "name": "Oathkeeper",
     "season": 4,
     "number": 4,
     "type": "regular",
-    "airdate": "2020-05-07",
-    "airtime": "",
-    "airstamp": "2020-05-07T12:00:00+00:00",
+    "airdate": "2014-04-27",
+    "airtime": "21:00",
+    "airstamp": "2014-04-28T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/255/639247.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/255/639247.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2586.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2586.jpg"
     },
-    "summary": "<p>A former divorce client, Duncan Herz, seeks the firm's help, claiming a buzzy new play running in Chicago is based on his divorce and shares specific details that unearth more than just his dirty laundry. Diane attempts to get to the heart of Memo 618 when a missing case leads her to the corporate overlords themselves, STR Laurie.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1839130" } }
+    "summary": "<p>Dany balances justice and mercy. Jaime tasks Brienne with his honor. Jon secures volunteers while Bran, Jojen, Meera and Hodor stumble on shelter.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4985" } }
   },
   {
-    "id": 1864917,
-    "url": "https://www.tvmaze.com/episodes/1864917/the-good-fight-4x05-the-gang-goes-to-war",
-    "name": "The Gang Goes to War",
+    "id": 4986,
+    "url": "https://www.tvmaze.com/episodes/4986/game-of-thrones-4x05-first-of-his-name",
+    "name": "First of His Name",
     "season": 4,
     "number": 5,
     "type": "regular",
-    "airdate": "2020-05-14",
-    "airtime": "",
-    "airstamp": "2020-05-14T12:00:00+00:00",
+    "airdate": "2014-05-04",
+    "airtime": "21:00",
+    "airstamp": "2014-05-05T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/256/642062.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/256/642062.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2587.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2587.jpg"
     },
-    "summary": "Following their secret rendezvous, Liz and Caleb find themselves on a case together, defending a soldier court-martialed for sabotaging the weapon of his superior officer. Lucca accompanies her client, and newly minted friend, Bianca, on a short but sure to be memorable trip to the Caribbean.",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1864917" } }
+    "summary": "<p>Cersei and Tywin plot the Crown's next move. Dany discusses future plans. Jon embarks on a new mission.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4986" } }
   },
   {
-    "id": 1865243,
-    "url": "https://www.tvmaze.com/episodes/1865243/the-good-fight-4x06-the-gang-offends-everyone",
-    "name": "The Gang Offends Everyone",
+    "id": 4987,
+    "url": "https://www.tvmaze.com/episodes/4987/game-of-thrones-4x06-the-laws-of-gods-and-men",
+    "name": "The Laws of Gods and Men",
     "season": 4,
     "number": 6,
     "type": "regular",
-    "airdate": "2020-05-21",
-    "airtime": "",
-    "airstamp": "2020-05-21T12:00:00+00:00",
+    "airdate": "2014-05-11",
+    "airtime": "21:00",
+    "airstamp": "2014-05-12T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/257/644189.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/644189.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2588.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2588.jpg"
     },
-    "summary": "<p>Reddick, Boseman &amp; Lockhart represent an Olympic hopeful who was edged out of a spot on the U.S. women's swim team due to a last minute change to the eligibility window. From racism to sex and gender constructs, the case quickly takes the firm into rough waters. Meanwhile, Adrian is approached by the DNC with a compelling offer and Diane and Julius unite to track down Memo 618. </p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1865243" } }
+    "summary": "<p>Stannis and Davos set sail with a new strategy. Dany meets with supplicants. Tyrion faces down his father in the throne room.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4987" } }
   },
   {
-    "id": 1865244,
-    "url": "https://www.tvmaze.com/episodes/1865244/the-good-fight-4x07-the-gang-discovers-who-killed-jeffrey-epstein",
-    "name": "The Gang Discovers Who Killed Jeffrey Epstein",
+    "id": 4988,
+    "url": "https://www.tvmaze.com/episodes/4988/game-of-thrones-4x07-mockingbird",
+    "name": "Mockingbird",
     "season": 4,
     "number": 7,
     "type": "regular",
-    "airdate": "2020-05-28",
-    "airtime": "",
-    "airstamp": "2020-05-28T12:00:00+00:00",
+    "airdate": "2014-05-18",
+    "airtime": "21:00",
+    "airstamp": "2014-05-19T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/258/647331.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/258/647331.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2589.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2589.jpg"
     },
-    "summary": "<p>Reddick, Boseman &amp; Lockhart are hired to investigate the death of high-profile New York inmate Jeffrey Epstein. Back at the office, STR Laurie continues to tighten their grip on the firm by forcing Diane, Adrian and Liz to conduct layoffs. But the enraged trio won't go down that route without a fight and hatch a plan in hopes of shaking off their corporate overlords once and for all.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1865244" } }
+    "summary": "<p>Tyrion enlists an unlikely ally. Daario entreats Dany to allow him to do what he does best. Jon's warnings about the Wall's vulnerability fall on deaf ears. Brienne follows a new lead on the road with Pod.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4988" } }
   },
   {
-    "id": 2093423,
-    "url": "https://www.tvmaze.com/episodes/2093423/the-good-fight-5x01-previously-on",
-    "name": "Previously on...",
+    "id": 4989,
+    "url": "https://www.tvmaze.com/episodes/4989/game-of-thrones-4x08-the-mountain-and-the-viper",
+    "name": "The Mountain and the Viper",
+    "season": 4,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2014-06-01",
+    "airtime": "21:00",
+    "airstamp": "2014-06-02T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2591.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2591.jpg"
+    },
+    "summary": "<p>Mole's Town receives unexpected visitors. Littlefinger's motives are questioned. Ramsay attempts to prove himself to his father. Tyrion's fate is decided.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4989" } }
+  },
+  {
+    "id": 4990,
+    "url": "https://www.tvmaze.com/episodes/4990/game-of-thrones-4x09-the-watchers-on-the-wall",
+    "name": "The Watchers on the Wall",
+    "season": 4,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2014-06-08",
+    "airtime": "21:00",
+    "airstamp": "2014-06-09T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2593.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2593.jpg"
+    },
+    "summary": "<p>Jon Snow and the rest of the Night's Watch face the biggest challenge to the Wall yet.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4990" } }
+  },
+  {
+    "id": 4991,
+    "url": "https://www.tvmaze.com/episodes/4991/game-of-thrones-4x10-the-children",
+    "name": "The Children",
+    "season": 4,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2014-06-15",
+    "airtime": "21:00",
+    "airstamp": "2014-06-16T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2594.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2594.jpg"
+    },
+    "summary": "<p>An unexpected arrival north of the Wall changes circumstances. Dany is forced to face harsh realities. Bran learns more of his destiny. Tyrion sees the truth of his situation.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/4991" } }
+  },
+  {
+    "id": 116522,
+    "url": "https://www.tvmaze.com/episodes/116522/game-of-thrones-5x01-the-wars-to-come",
+    "name": "The Wars to Come",
     "season": 5,
     "number": 1,
     "type": "regular",
-    "airdate": "2021-06-24",
-    "airtime": "",
-    "airstamp": "2021-06-24T12:00:00+00:00",
-    "runtime": 51,
+    "airdate": "2015-04-12",
+    "airtime": "21:00",
+    "airstamp": "2015-04-13T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/332/832133.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/832133.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25988.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25988.jpg"
     },
-    "summary": "<p>A flashback to 2020 reveals how the team at Reddick, Boseman &amp; Lockhart experienced the year's major events.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2093423" } }
+    "summary": "<p>Varys discusses a conspiracy with Tyrion; Daenerys' rule faces a new threat; Jon finds himself between two kings; and Cersei and Jaime try to move on from Tywin's demise.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/116522" } }
   },
   {
-    "id": 2119140,
-    "url": "https://www.tvmaze.com/episodes/2119140/the-good-fight-5x02-once-there-was-a-court",
-    "name": "Once there was a court...",
+    "id": 144328,
+    "url": "https://www.tvmaze.com/episodes/144328/game-of-thrones-5x02-the-house-of-black-and-white",
+    "name": "The House of Black and White",
     "season": 5,
     "number": 2,
     "type": "regular",
-    "airdate": "2021-07-01",
-    "airtime": "",
-    "airstamp": "2021-07-01T12:00:00+00:00",
-    "runtime": 51,
+    "airdate": "2015-04-19",
+    "airtime": "21:00",
+    "airstamp": "2015-04-20T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/334/837417.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/334/837417.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25989.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25989.jpg"
     },
-    "summary": "<p>Diane and Marissa find themselves arguing at the Circuit 9 3/4 Court, led by the quirky \"Judge\" Hal Wackner. Meanwhile, Carmen Moyo proves herself to be an effective, yet underestimated, new associate.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2119140" } }
+    "summary": "<p>Arya arrives in Braavos; Brienne and Podrick find danger while traveling; Cersei worries about Myrcella in Dorne when Ellaria Sand seeks revenge for Oberyn's death; Jon is tempted by Stannis.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/144328" } }
   },
   {
-    "id": 2122859,
-    "url": "https://www.tvmaze.com/episodes/2122859/the-good-fight-5x03-and-the-court-had-a-clerk",
-    "name": "And the court had a clerk…",
+    "id": 144329,
+    "url": "https://www.tvmaze.com/episodes/144329/game-of-thrones-5x03-high-sparrow",
+    "name": "High Sparrow",
     "season": 5,
     "number": 3,
     "type": "regular",
-    "airdate": "2021-07-08",
-    "airtime": "",
-    "airstamp": "2021-07-08T12:00:00+00:00",
-    "runtime": 54,
+    "airdate": "2015-04-26",
+    "airtime": "21:00",
+    "airstamp": "2015-04-27T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/337/844768.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/337/844768.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25990.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25990.jpg"
     },
-    "summary": "<p>Diane is aghast when Kurt reveals he recognized the face of a man featured in a U.S. Capitol insurrection \"Most Wanted\" poster. Intrigued by Wackner, Marissa sneaks over to his copy shop \"courtroom\" and is thrilled by what she encounters. Back in legitimate court, Liz uses a current case to tackle Section 230.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2122859" } }
+    "summary": "<p>Cersei meets the High Sparrow after learning of a clergyman's embarrassing tale. Meanwhile, Davos talks to Jon about the future of Winterfell, where Ramsay Snow has just learned the identity of his future bride; Arya grows impatient doing menial tasks in the House of Black and White; and Tyrion searches for more comfortable surroundings on a long trip with Varys.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/144329" } }
   },
   {
-    "id": 2130719,
-    "url": "https://www.tvmaze.com/episodes/2130719/the-good-fight-5x04-and-the-clerk-had-a-firm",
-    "name": "And the clerk had a firm…",
+    "id": 144330,
+    "url": "https://www.tvmaze.com/episodes/144330/game-of-thrones-5x04-sons-of-the-harpy",
+    "name": "Sons of the Harpy",
     "season": 5,
     "number": 4,
     "type": "regular",
-    "airdate": "2021-07-15",
-    "airtime": "",
-    "airstamp": "2021-07-15T12:00:00+00:00",
-    "runtime": 54,
+    "airdate": "2015-05-03",
+    "airtime": "21:00",
+    "airstamp": "2015-05-04T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850912.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850912.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26444.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26444.jpg"
     },
-    "summary": "<p>When a comedy streaming network executive, Del Cooper, asks Liz to conduct a sensitivity read on one of his comedians, the entire firm ends up fighting over how comedy and 'cancel culture' collide. Meanwhile, FBI agent Madeline Starkey goes after Kurt for his alleged involvement in the U.S. Capitol insurrection.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2130719" } }
+    "summary": "<p>Margaery seeks prudent counsel. Jaime Struggles in foreign lands. Dany answers the Harpy's call.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/144330" } }
   },
   {
-    "id": 2131270,
-    "url": "https://www.tvmaze.com/episodes/2131270/the-good-fight-5x05-and-the-firm-had-two-partners",
-    "name": "And the firm had two partners...",
+    "id": 151777,
+    "url": "https://www.tvmaze.com/episodes/151777/game-of-thrones-5x05-kill-the-boy",
+    "name": "Kill the Boy",
     "season": 5,
     "number": 5,
     "type": "regular",
-    "airdate": "2021-07-22",
-    "airtime": "",
-    "airstamp": "2021-07-22T12:00:00+00:00",
-    "runtime": 57,
+    "airdate": "2015-05-10",
+    "airtime": "21:00",
+    "airstamp": "2015-05-11T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/342/855528.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/342/855528.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26819.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26819.jpg"
     },
-    "summary": "<p>Liz and Carmen represent Oscar Rivi, who is suing Harbor Hospital over the wrongful death of his daughter. Jay's investigation of the case triggers some PTSD that forces him to dig deeper into his own experience with Covid. With Madeline Starkey still hell-bent on getting Kurt to come clean, Diane decides to take matters into her own hands.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2131270" } }
+    "summary": "<p>Dany makes a difficult decision in Meereen. Jon recruits the help of an unexpected ally. Brienne searches for Sansa. Theon remains under Ramsay's control.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/151777" } }
   },
   {
-    "id": 2136904,
-    "url": "https://www.tvmaze.com/episodes/2136904/the-good-fight-5x06-and-the-two-partners-had-a-fight",
-    "name": "And the two partners had a fight…",
+    "id": 152766,
+    "url": "https://www.tvmaze.com/episodes/152766/game-of-thrones-5x06-unbowed-unbent-unbroken",
+    "name": "Unbowed, Unbent, Unbroken",
     "season": 5,
     "number": 6,
     "type": "regular",
-    "airdate": "2021-07-29",
-    "airtime": "",
-    "airstamp": "2021-07-29T12:00:00+00:00",
-    "runtime": 57,
+    "airdate": "2015-05-17",
+    "airtime": "21:00",
+    "airstamp": "2015-05-18T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/344/861579.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/344/861579.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/27259.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/27259.jpg"
     },
-    "summary": "<p>When Reddick/Lockhart associates start posting anonymous hate messages about Julius and Diane on a new interoffice app, Diane's name partner position at the firm is once again questioned. At home, Diane grapples with her marriage after learning Kurt is considering a job offer from the NRA. Meanwhile, Wackner goes to real court to have his approach and sanity questioned.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2136904" } }
+    "summary": "<p>Arya trains. Jorah and Tyrion run into slavers. Trystane and Myrcella make plans. Jaime and Bronn reach their destination. The Sand Snakes attack.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/152766" } }
   },
   {
-    "id": 2136905,
-    "url": "https://www.tvmaze.com/episodes/2136905/the-good-fight-5x07-and-the-fight-had-a-detente",
-    "name": "And the fight had a detente...",
+    "id": 153327,
+    "url": "https://www.tvmaze.com/episodes/153327/game-of-thrones-5x07-the-gift",
+    "name": "The Gift",
     "season": 5,
     "number": 7,
     "type": "regular",
-    "airdate": "2021-08-05",
-    "airtime": "",
-    "airstamp": "2021-08-05T12:00:00+00:00",
-    "runtime": 52,
+    "airdate": "2015-05-24",
+    "airtime": "21:00",
+    "airstamp": "2015-05-25T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/346/865696.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/346/865696.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/11/27535.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/27535.jpg"
     },
-    "summary": "<p>At Circuit 9 3/4 court, Marissa is assigned to \"prosecute\" two contrasting \"cancel culture\" cases, which both leave her questioning the intentions of Wackner, David Cord and Del Cooper. The tension between Diane and Liz increases while they work together on a high profile case against the Chicago PD.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2136905" } }
+    "summary": "<p>Jon prepares for conflict. Sansa tries to talk to Theon. Brienne waits for a sign. Stannis remains stubborn. Jaime attempts to reconnect with family.</p><p><br><br></p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/153327" } }
   },
   {
-    "id": 2144951,
-    "url": "https://www.tvmaze.com/episodes/2144951/the-good-fight-5x08-and-the-detente-had-an-end",
-    "name": "And the detente had an end...",
+    "id": 155299,
+    "url": "https://www.tvmaze.com/episodes/155299/game-of-thrones-5x08-hardhome",
+    "name": "Hardhome",
     "season": 5,
     "number": 8,
     "type": "regular",
-    "airdate": "2021-08-12",
-    "airtime": "",
-    "airstamp": "2021-08-12T12:00:00+00:00",
-    "runtime": 41,
+    "airdate": "2015-05-31",
+    "airtime": "21:00",
+    "airstamp": "2015-06-01T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/348/870886.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/348/870886.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/11/28151.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28151.jpg"
     },
-    "summary": "<p>Julius fights to defend himself in Wackner's court in a surreal and harrowing effort to reclaim his car...and his dignity-all because of an alleged parking violation. Meanwhile, after focus group feedback threatens to sink Del Cooper's reality show about Wackner, both Marissa and Wackner embrace different tactics to help revive the court.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2144951" } }
+    "summary": "<p>Arya makes progress in her training. Sansa confronts an old friend. Cersei struggles. Jon travels.</p><p><br><br></p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/155299" } }
   },
   {
-    "id": 2144952,
-    "url": "https://www.tvmaze.com/episodes/2144952/the-good-fight-5x09-and-the-end-was-violent",
-    "name": "And the end was violent...",
+    "id": 160040,
+    "url": "https://www.tvmaze.com/episodes/160040/game-of-thrones-5x09-the-dance-of-dragons",
+    "name": "The Dance of Dragons",
     "season": 5,
     "number": 9,
     "type": "regular",
-    "airdate": "2021-08-19",
-    "airtime": "",
-    "airstamp": "2021-08-19T12:00:00+00:00",
-    "runtime": 46,
+    "airdate": "2015-06-07",
+    "airtime": "21:00",
+    "airstamp": "2015-06-08T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/350/875109.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/350/875109.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/11/29160.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/29160.jpg"
     },
-    "summary": "<p>Liz and Diane struggle to get David Lee and the Dubai overlords to accept the new name partner, Allegra Jurado. Oscar Rivi attempts to make his cannabis business legitimate, but realizes that the corporate world can be just as cut-throat as his own. When the justice system fails to detain and prevent a man from continually committing anti-Asian hate crime, the cops discover another way for justice -- Wackner's court.</p>",
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2144952" } }
+    "summary": "<p>Stannis confronts a troubling decision. Jon returns to The Wall. Mace visits the Iron Bank. Arya encounters someone from her past. Dany reluctantly oversees a traditional celebration of athleticism.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/160040" } }
   },
   {
-    "id": 2151069,
-    "url": "https://www.tvmaze.com/episodes/2151069/the-good-fight-5x10-tba",
-    "name": "TBA",
+    "id": 162186,
+    "url": "https://www.tvmaze.com/episodes/162186/game-of-thrones-5x10-mothers-mercy",
+    "name": "Mother's Mercy",
     "season": 5,
     "number": 10,
     "type": "regular",
-    "airdate": "2021-08-26",
-    "airtime": "",
-    "airstamp": "2021-08-26T12:00:00+00:00",
-    "runtime": null,
-    "image": null,
-    "summary": null,
-    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2151069" } }
+    "airdate": "2015-06-14",
+    "airtime": "21:00",
+    "airstamp": "2015-06-15T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/12/30012.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30012.jpg"
+    },
+    "summary": "<p>Cersei seeks forgiveness; Jon faces a new challenge; Arya plots to cross a name off her list; Tyrion sees a familiar face; and Daenerys finds herself surrounded by strangers.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/162186" } }
+  },
+  {
+    "id": 560813,
+    "url": "https://www.tvmaze.com/episodes/560813/game-of-thrones-6x01-the-red-woman",
+    "name": "The Red Woman",
+    "season": 6,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2016-04-24",
+    "airtime": "21:00",
+    "airstamp": "2016-04-25T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142371.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142371.jpg"
+    },
+    "summary": "<p>Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/560813" } }
+  },
+  {
+    "id": 664672,
+    "url": "https://www.tvmaze.com/episodes/664672/game-of-thrones-6x02-home",
+    "name": "Home",
+    "season": 6,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2016-05-01",
+    "airtime": "21:00",
+    "airstamp": "2016-05-02T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142372.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142372.jpg"
+    },
+    "summary": "<p>Bran trains with the Three-Eyed Raven. In King's Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night's Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/664672" } }
+  },
+  {
+    "id": 664673,
+    "url": "https://www.tvmaze.com/episodes/664673/game-of-thrones-6x03-oathbreaker",
+    "name": "Oathbreaker",
+    "season": 6,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2016-05-08",
+    "airtime": "21:00",
+    "airstamp": "2016-05-09T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142370.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142370.jpg"
+    },
+    "summary": "<p>Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/664673" } }
+  },
+  {
+    "id": 664674,
+    "url": "https://www.tvmaze.com/episodes/664674/game-of-thrones-6x04-book-of-the-stranger",
+    "name": "Book of the Stranger",
+    "season": 6,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2016-05-15",
+    "airtime": "21:00",
+    "airstamp": "2016-05-16T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142273.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142273.jpg"
+    },
+    "summary": "<p>Tyrion strikes a deal. Jorah and Daario undertake a difficult task. Jaime and Cersei try to improve their situation.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/664674" } }
+  },
+  {
+    "id": 664675,
+    "url": "https://www.tvmaze.com/episodes/664675/game-of-thrones-6x05-the-door",
+    "name": "The Door",
+    "season": 6,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2016-05-22",
+    "airtime": "21:00",
+    "airstamp": "2016-05-23T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/60/150273.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/60/150273.jpg"
+    },
+    "summary": "<p>Tyrion seeks a strange ally. Bran learns a great deal. Brienne goes on a mission. Arya is given a chance to prove herself.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/664675" } }
+  },
+  {
+    "id": 664676,
+    "url": "https://www.tvmaze.com/episodes/664676/game-of-thrones-6x06-blood-of-my-blood",
+    "name": "Blood of My Blood",
+    "season": 6,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2016-05-29",
+    "airtime": "21:00",
+    "airstamp": "2016-05-30T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/60/150274.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/60/150274.jpg"
+    },
+    "summary": "<p>An old foe comes back into the picture. Gilly meets Sam's family. Arya faces a difficult choice. Jaime faces off against the High Sparrow.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/664676" } }
+  },
+  {
+    "id": 717449,
+    "url": "https://www.tvmaze.com/episodes/717449/game-of-thrones-6x07-the-broken-man",
+    "name": "The Broken Man",
+    "season": 6,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2016-06-05",
+    "airtime": "21:00",
+    "airstamp": "2016-06-06T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/60/150275.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/60/150275.jpg"
+    },
+    "summary": "<p>The High Sparrow eyes another target. Jaime confronts a hero. Arya makes a plan. The North is reminded.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/717449" } }
+  },
+  {
+    "id": 729573,
+    "url": "https://www.tvmaze.com/episodes/729573/game-of-thrones-6x08-no-one",
+    "name": "No One",
+    "season": 6,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2016-06-12",
+    "airtime": "21:00",
+    "airstamp": "2016-06-13T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/61/153044.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/61/153044.jpg"
+    },
+    "summary": "<p>Jaime encounters a hero; the High Sparrow fixates on another prey; Arya hatches a new plan; Yara and Theon plot their next move; Olenna and Cersei discuss their families' futures.</p><p></p><p>While Jaime weighs his options, Cersei answers a request. Tyrion's plans bear fruit. Arya faces a new test.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/729573" } }
+  },
+  {
+    "id": 729574,
+    "url": "https://www.tvmaze.com/episodes/729574/game-of-thrones-6x09-battle-of-the-bastards",
+    "name": "Battle of the Bastards",
+    "season": 6,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2016-06-19",
+    "airtime": "21:00",
+    "airstamp": "2016-06-20T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/62/155042.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/62/155042.jpg"
+    },
+    "summary": "<p>Ramsay surprises his audience. Jon retaliates. Dany is true to her word.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/729574" } }
+  },
+  {
+    "id": 729575,
+    "url": "https://www.tvmaze.com/episodes/729575/game-of-thrones-6x10-the-winds-of-winter",
+    "name": "The Winds of Winter",
+    "season": 6,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2016-06-26",
+    "airtime": "21:00",
+    "airstamp": "2016-06-27T01:00:00+00:00",
+    "runtime": 69,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/63/157920.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/63/157920.jpg"
+    },
+    "summary": "<p>Alliances are made, the High Sparrow is holding trials at King's Landing, Daenerys is sailing for the Seven Kingdoms and a new King of the North is crowned.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/729575" } }
+  },
+  {
+    "id": 937256,
+    "url": "https://www.tvmaze.com/episodes/937256/game-of-thrones-7x01-dragonstone",
+    "name": "Dragonstone",
+    "season": 7,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2017-07-16",
+    "airtime": "21:00",
+    "airstamp": "2017-07-17T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/120/302038.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/302038.jpg"
+    },
+    "summary": "<p>Jon organizes the defense of the North. Cersei tries to even the odds. Daenerys comes home.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/937256" } }
+  },
+  {
+    "id": 1221410,
+    "url": "https://www.tvmaze.com/episodes/1221410/game-of-thrones-7x02-stormborn",
+    "name": "Stormborn",
+    "season": 7,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2017-07-23",
+    "airtime": "21:00",
+    "airstamp": "2017-07-24T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/120/302047.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/302047.jpg"
+    },
+    "summary": "<p>Daenerys receives an unexpected visitor. Jon faces a revolt. Tyrion plans the conquest of Westeros.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1221410" } }
+  },
+  {
+    "id": 1221411,
+    "url": "https://www.tvmaze.com/episodes/1221411/game-of-thrones-7x03-the-queens-justice",
+    "name": "The Queen's Justice",
+    "season": 7,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2017-07-30",
+    "airtime": "21:00",
+    "airstamp": "2017-07-31T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/122/306938.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/122/306938.jpg"
+    },
+    "summary": "<p>Daenerys holds court. Cersei returns a gift. Jaime learns from his mistakes.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1221411" } }
+  },
+  {
+    "id": 1221412,
+    "url": "https://www.tvmaze.com/episodes/1221412/game-of-thrones-7x04-the-spoils-of-war",
+    "name": "The Spoils of War",
+    "season": 7,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2017-08-06",
+    "airtime": "21:00",
+    "airstamp": "2017-08-07T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/123/307677.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/307677.jpg"
+    },
+    "summary": "<p>Arya gets to the final destination. Daenerys takes it upon herself to strike back.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1221412" } }
+  },
+  {
+    "id": 1221413,
+    "url": "https://www.tvmaze.com/episodes/1221413/game-of-thrones-7x05-eastwatch",
+    "name": "Eastwatch",
+    "season": 7,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2017-08-13",
+    "airtime": "21:00",
+    "airstamp": "2017-08-14T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/124/310839.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/124/310839.jpg"
+    },
+    "summary": "<p>Daenerys demands loyalty from the surviving Lannister soldiers; Jon heeds Bran's warning about White Walkers on the move; Cersei vows to vanquish anyone or anything that stands in her way.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1221413" } }
+  },
+  {
+    "id": 1221414,
+    "url": "https://www.tvmaze.com/episodes/1221414/game-of-thrones-7x06-beyond-the-wall",
+    "name": "Beyond the Wall",
+    "season": 7,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2017-08-20",
+    "airtime": "21:00",
+    "airstamp": "2017-08-21T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/125/312651.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/125/312651.jpg"
+    },
+    "summary": "<p>Jon's mission continues north of the wall, but the odds against his ragged band of misfits may be greater than he imagined.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1221414" } }
+  },
+  {
+    "id": 1221415,
+    "url": "https://www.tvmaze.com/episodes/1221415/game-of-thrones-7x07-the-dragon-and-the-wolf",
+    "name": "The Dragon and the Wolf",
+    "season": 7,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2017-08-27",
+    "airtime": "21:00",
+    "airstamp": "2017-08-28T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/125/314502.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/125/314502.jpg"
+    },
+    "summary": "<p>Cersei sits on the Iron Throne; Daenerys sails across the Narrow Sea; Jon Snow is King in the North, and winter is finally here.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1221415" } }
+  },
+  {
+    "id": 1590943,
+    "url": "https://www.tvmaze.com/episodes/1590943/game-of-thrones-8x01-winterfell",
+    "name": "Winterfell",
+    "season": 8,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2019-04-14",
+    "airtime": "21:00",
+    "airstamp": "2019-04-15T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/191/479477.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/191/479477.jpg"
+    },
+    "summary": "<p>Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North. Jon gets some big news.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1590943" } }
+  },
+  {
+    "id": 1623964,
+    "url": "https://www.tvmaze.com/episodes/1623964/game-of-thrones-8x02-a-knight-of-the-seven-kingdoms",
+    "name": "A Knight of the Seven Kingdoms",
+    "season": 8,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2019-04-21",
+    "airtime": "21:00",
+    "airstamp": "2019-04-22T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/192/482451.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/482451.jpg"
+    },
+    "summary": "<p>Jaime faces judgement and Winterfell prepares for the battle to come.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1623964" } }
+  },
+  {
+    "id": 1623965,
+    "url": "https://www.tvmaze.com/episodes/1623965/game-of-thrones-8x03-the-long-night",
+    "name": "The Long Night",
+    "season": 8,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2019-04-28",
+    "airtime": "21:00",
+    "airstamp": "2019-04-29T01:00:00+00:00",
+    "runtime": 90,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/192/482465.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/482465.jpg"
+    },
+    "summary": "<p>Winterfell fights the Army of the Dead.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1623965" } }
+  },
+  {
+    "id": 1623966,
+    "url": "https://www.tvmaze.com/episodes/1623966/game-of-thrones-8x04-the-last-of-the-starks",
+    "name": "The Last of the Starks",
+    "season": 8,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2019-05-05",
+    "airtime": "21:00",
+    "airstamp": "2019-05-06T01:00:00+00:00",
+    "runtime": 78,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/487839.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/487839.jpg"
+    },
+    "summary": "<p>The survivors plan their next steps; Cersei makes a power move.</p><p></p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1623966" } }
+  },
+  {
+    "id": 1623967,
+    "url": "https://www.tvmaze.com/episodes/1623967/game-of-thrones-8x05-the-bells",
+    "name": "The Bells",
+    "season": 8,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2019-05-12",
+    "airtime": "21:00",
+    "airstamp": "2019-05-13T01:00:00+00:00",
+    "runtime": 79,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/196/491994.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/196/491994.jpg"
+    },
+    "summary": "<p>Varys betrays his queen, and Daenerys brings her forces to King's Landing.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1623967" } }
+  },
+  {
+    "id": 1623968,
+    "url": "https://www.tvmaze.com/episodes/1623968/game-of-thrones-8x06-the-iron-throne",
+    "name": "The Iron Throne",
+    "season": 8,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2019-05-19",
+    "airtime": "21:00",
+    "airstamp": "2019-05-20T01:00:00+00:00",
+    "runtime": 80,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/198/495648.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/198/495648.jpg"
+    },
+    "summary": "<p>In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/1623968" } }
   }
 ]
