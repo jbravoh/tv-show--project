@@ -1,3 +1,5 @@
+import styles from "../css/Episode.module.css";
+
 export interface IEpisode {
   id: number;
   url: string;
@@ -19,13 +21,15 @@ export interface IEpisode {
 
 function Episode(props: IEpisode): JSX.Element {
   return (
-    <div className="show-container" key={props.id}>
-      <h1 className="epsiode-name">
-        {props.name} - {props.season}
-        {props.number}
+    <div className={styles.showContainer} key={props.id}>
+      <h1 className={styles.episodeName}>
+        {props.name} - S{String(props.season).padStart(2, "0")}E
+        {String(props.number).padStart(2, "0")}
       </h1>
-      <img className="episode-image" src={props.image.medium} alt="" />
-      <p>{props.summary}</p>
+      <img className={styles.episodeImage} src={props.image.medium} alt="" />
+      <p className={styles.summary}>
+        {props.summary.replace(/(<([^>]+)>)/gi, "")}
+      </p>
     </div>
   );
 }
