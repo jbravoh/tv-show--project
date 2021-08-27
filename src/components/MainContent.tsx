@@ -1,5 +1,6 @@
 import Episode from "./Episode";
 import { IEpisode } from "./Episode";
+import styles from "../css/MainContent.module.css";
 
 function MainContent(props: { episodes: IEpisode[] }): JSX.Element {
   const showEpisodes = props.episodes.map((episode) => (
@@ -28,7 +29,7 @@ function MainContent(props: { episodes: IEpisode[] }): JSX.Element {
 
   return (
     <main>
-      <section className="main-container">{showEpisodes}</section>
+      <section className={styles.container}>{showEpisodes}</section>
     </main>
   );
 }
