@@ -12,3 +12,9 @@ body {
 .displayText {
   font-size: 12px;
 }
+
+.container {
+  margin: 0 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
