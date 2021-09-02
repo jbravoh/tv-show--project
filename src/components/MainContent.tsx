@@ -1,8 +1,7 @@
-import { IEpisode } from "./Episode";
+import Episode, { IEpisode } from "./Episode";
 import styles from "../css/MainContent.module.css";
 import { SearchInput } from "./SearchInput";
 import React, { useState, useEffect } from "react";
-import DisplayEpisodes from "./DisplayEpisodes";
 import Dropdown from "./Dropdown";
 
 function MainContent(): JSX.Element {
@@ -35,6 +34,42 @@ function MainContent(): JSX.Element {
     fetchEpisodes();
   }, []);
 
+  const searchEpisodes = episodeData
+    .filter(
+      (episode) =>
+        episode.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        episode.summary.toLowerCase().includes(searchTerm.toLowerCase())
+    )
+    .map((episode) => (
+      <Episode
+        key={episode.id}
+        id={episode.id}
+        name={episode.name}
+        season={episode.season}
+        number={episode.number}
+        image={{
+          medium: episode.image?.medium,
+        }}
+        summary={episode.summary}
+      />
+    ));
+
+  const selectedEpisode = episodeData
+    .filter((episode) => episode.name === selectEpisode)
+    .map((episode) => (
+      <Episode
+        key={episode.id}
+        id={episode.id}
+        name={episode.name}
+        season={episode.season}
+        number={episode.number}
+        image={{
+          medium: episode.image?.medium,
+        }}
+        summary={episode.summary}
+      />
+    ));
+
   return (
     <>
       <div className={styles.search}>
@@ -47,14 +82,19 @@ function MainContent(): JSX.Element {
           searchTerm={searchTerm}
           handleSearchTerm={handleSearchTerm}
         />
+        {selectEpisode !== "default" ? (
+          <button className={styles.button} onClick={handleResetButton}>
+            Show all Episodes
+          </button>
+        ) : (
+          <p>
+            Displaying {searchEpisodes.length}/{episodeData.length} episodes
+          </p>
+        )}
       </div>
-
-      <DisplayEpisodes
-        searchTerm={searchTerm}
-        selectEpisode={selectEpisode}
-        episodeData={episodeData}
-        handleResetButton={handleResetButton}
-      />
+      <div className={styles.container}>
+        {selectEpisode !== "default" ? selectedEpisode : searchEpisodes}
+      </div>
     </>
   );
 }
