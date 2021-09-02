@@ -1,22 +1,22 @@
 import styles from "../css/Episode.module.css";
 
 export interface IEpisode {
-  id: number;
-  url: string;
+  id?: number;
+  url?: string;
   name: string;
   season: number;
   number: number;
-  type: string;
-  airdate: string;
-  airtime: string;
-  airstamp: string;
-  runtime: number;
+  type?: string;
+  airdate?: string;
+  airtime?: string;
+  airstamp?: string;
+  runtime?: number;
   image: {
-    medium: string;
-    original: string;
+    medium?: string;
+    original?: string;
   };
   summary: string;
-  _links: { self: { href: string } };
+  _links?: { self: { href: string } };
 }
 
 function Episode(props: IEpisode): JSX.Element {
