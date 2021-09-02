@@ -3,7 +3,7 @@ import styles from "../css/MainContent.module.css";
 import { SearchInput } from "./SearchInput";
 import React, { useState, useEffect } from "react";
 import Dropdown from "./Dropdown";
-import ShowAllEpisodesButton from "./ShowAllEpisodesButton"
+import ShowAllEpisodesButton from "./ShowAllEpisodesButton";
 import DisplayNumberOfEpisodes from "./DisplayNumberOfEpisodes";
 
 function MainContent(): JSX.Element {
@@ -84,7 +84,14 @@ function MainContent(): JSX.Element {
           searchTerm={searchTerm}
           handleSearchTerm={handleSearchTerm}
         />
-        {selectEpisode !== "default" ? <ShowAllEpisodesButton handleResetButton={handleResetButton}/> : <DisplayNumberOfEpisodes searchEpisodes={searchEpisodes} episodeData={episodeData}/>}
+        {selectEpisode !== "default" ? (
+          <ShowAllEpisodesButton handleResetButton={handleResetButton} />
+        ) : (
+          <DisplayNumberOfEpisodes
+            searchEpisodes={searchEpisodes}
+            episodeData={episodeData}
+          />
+        )}
       </div>
       <div className={styles.container}>
         {selectEpisode !== "default" ? selectedEpisode : searchEpisodes}
