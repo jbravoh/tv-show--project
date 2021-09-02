@@ -1,0 +1,10 @@
+.select {
+  width: 200px;
+  margin: 5px;
+  padding: 5px;
+  font-size: 10px;
+}
+
+option {
+  font-size: 10px;
+}
