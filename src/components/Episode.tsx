@@ -11,7 +11,7 @@ export interface IEpisode {
   airtime?: string;
   airstamp?: string;
   runtime?: number;
-  image: {
+  image?: {
     medium?: string;
     original?: string;
   };
@@ -26,7 +26,9 @@ function Episode(props: IEpisode): JSX.Element {
         {props.name} - S{String(props.season).padStart(2, "0")}E
         {String(props.number).padStart(2, "0")}
       </h1>
-      <img className={styles.episodeImage} src={props.image.medium} alt="" />
+      {props.image && (
+        <img className={styles.episodeImage} src={props.image.medium} alt="" />
+      )}
       <p className={styles.summary}>
         {props.summary.replace(/(<([^>]+)>)/gi, "")}
       </p>
