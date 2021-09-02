@@ -52,10 +52,16 @@ export default function DisplayEpisodes({
 
   return (
     <>
-      {selectEpisode !== "default" ? <button onClick={handleResetButton}>Show all Episodes</button> : <p>Displaying {searchEpisodes.length}/{episodeData.length} episodes</p>}
+      {selectEpisode !== "default" ? (
+        <button onClick={handleResetButton}>Show all Episodes</button>
+      ) : (
+        <p>
+          Displaying {searchEpisodes.length}/{episodeData.length} episodes
+        </p>
+      )}
       <div className={styles.container}>
-        {selectEpisode !== "default" ?  selectedEpisode :  searchEpisodes}
-      </div>  
+        {selectEpisode !== "default" ? selectedEpisode : searchEpisodes}
+      </div>
     </>
   );
 }
